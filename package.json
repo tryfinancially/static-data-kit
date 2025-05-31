@@ -1,6 +1,6 @@
 {
   "name": "@financially/static-data-kit",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Reference data (countries, currencies, states, etc.) for B2B and SaaS apps.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
