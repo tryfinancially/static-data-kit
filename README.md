@@ -71,7 +71,7 @@ interface Country {
   isoAlpha2SubDivisionCode: string;
   region: string;
   subRegion: string;
-  region_code: string;
+  regionCode: string;
   subRegionCode: string;
   flagUnicode: string;
   flagUrl: string;
