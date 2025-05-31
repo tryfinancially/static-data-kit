@@ -27,11 +27,11 @@ But existing datasets are often:
 ## 📦 Installation
 
 ```bash
-npm install static-data-kit
+npm install @financially/static-data-kit
 # or
-yarn add static-data-kit
+yarn add @financially/static-data-kit
 # or
-pnpm add static-data-kit
+pnpm add @financially/static-data-kit
 ```
 
 ---
@@ -49,7 +49,10 @@ getCountryByAlpha3Code(code: string): Country | undefined
 ### 🔍 Example
 
 ```ts
-import { getAllCountries, getCountryByAlpha2Code } from 'static-data-kit';
+import {
+  getAllCountries,
+  getCountryByAlpha2Code,
+} from '@financially/static-data-kit';
 
 const countries = getAllCountries();
 const india = getCountryByAlpha2Code('IN');
@@ -94,7 +97,7 @@ getCurrenciesByCountryCode(countryCode: string): Currency[]
 import {
   getCurrencyByAlpha3Code,
   getCurrenciesByCountryCode,
-} from 'static-data-kit';
+} from '@financially/static-data-kit';
 
 const usd = getCurrencyByAlpha3Code('USD');
 const swiss = getCurrenciesByCountryCode('CH');
@@ -128,7 +131,7 @@ getStatesByCountryCode(countryCode: string): State[]
 ### 🔍 Example
 
 ```ts
-import { getStatesByCountryCode } from 'static-data-kit';
+import { getStatesByCountryCode } from '@financially/static-data-kit';
 
 const usStates = getStatesByCountryCode('US');
 ```
@@ -158,7 +161,7 @@ getIndustryBySlug(slug: string): Industry | undefined
 ### 🔍 Example
 
 ```ts
-import { getAllIndustries } from 'static-data-kit';
+import { getAllIndustries } from '@financially/static-data-kit';
 
 const industries = getAllIndustries();
 ```
@@ -187,7 +190,7 @@ getJobRolesByCategorySlug(slug: string): JobRole[]
 ### 🔍 Example
 
 ```ts
-import { getJobRolesByCategorySlug } from 'static-data-kit';
+import { getJobRolesByCategorySlug } from '@financially/static-data-kit';
 
 const execRoles = getJobRolesByCategorySlug('executive-leadership');
 ```
@@ -220,7 +223,7 @@ getRegionalSettingByCountryCode(code: string): RegionalSetting | undefined
 import {
   getRegionalSettingByCountryCode,
   getAllRegionalSettings,
-} from 'static-data-kit';
+} from '@financially/static-data-kit';
 
 const usSettings = getRegionalSettingByCountryCode('US');
 const all = getAllRegionalSettings();
@@ -272,7 +275,7 @@ src/assets/countries/US.svg
 - To resolve at runtime:
 
 ```ts
-import { getCountryByAlpha2Code } from 'static-data-kit';
+import { getCountryByAlpha2Code } from '@financially/static-data-kit';
 
 const country = getCountryByAlpha2Code('IN');
 const flagPath = require.resolve('static-data-kit/' + country.flagUrl);
