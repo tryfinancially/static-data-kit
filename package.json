@@ -27,8 +27,7 @@
   "license": "MIT",
   "files": [
     "dist",
-    "src/data",
-    "src/assets"
+    "src/data"
   ],
   "packageManager": "pnpm@10.11.0",
   "devDependencies": {

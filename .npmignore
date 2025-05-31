@@ -1,20 +1,21 @@
-# Ignore everything except what's needed
-src/
-tests/
-scripts/
-*.log
-*.ts
-*.tsx
-*.scss
-*.env
-node_modules/
+# Ignore dev/config files
 .git
 .gitignore
-.npmignore
-.vscode/
-.idea/
-dist/**/*.map
-dist/
+.vscode
+.idea
+*.log
+*.env
 tsconfig.json
 README_TEMPLATE.md
 CONTRIBUTING.md.draft
+
+# Ignore source files (only dist/ should be published)
+src/
+tests/
+scripts/
+*.ts
+*.tsx
+*.scss
+
+# Ignore maps and build artifacts except compiled code
+dist/**/*.map
