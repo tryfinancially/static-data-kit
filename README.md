@@ -232,21 +232,23 @@ const all = getAllRegionalSettings();
 ### 📘 Interface
 
 ```ts
-interface RegionalSetting {
+export interface RegionalSetting {
   countryCode: string;
-  dateFormat: string;
-  timeFormat: string;
-  weekStartsOn: 'monday' | 'sunday';
-  defaultTimeZone: string;
+  dateFormat: DateFormat;
+  timeFormat: TimeFormat;
+  weekStartsOn: WeekStart;
+  defaultTimeZone: string; // e.g. "Asia/Phnom_Penh"
   numberFormat: {
-    format: string;
-    example: string;
-    groupingStyle: number[];
-    decimalSeparator: string;
-    thousandSeparator: string;
+    format: string; // e.g. "comma-thousand-dot-decimal"
+    example: string; // e.g. "1,234.56"
+    groupingStyle: number[]; // e.g. [3]
+    decimalSeparator: string; // e.g. "."
+    thousandSeparator: string; // e.g. ","
   };
 }
 ```
+
+All the timezone values are used according to proper ISO format. We use the package: [https://github.com/vvo/tzdb/](https://github.com/vvo/tzdb/)
 
 ---
 
@@ -258,30 +260,34 @@ All datasets are fully typed with TypeScript. You get complete IntelliSense, val
 
 ## 📁 Asset Access (Flags)
 
-- All country flags are SVGs stored under:
+All country flags are stored as SVGs with filenames like:
 
 ```
-src/assets/countries/IN.svg
-src/assets/countries/US.svg
+IN.svg
+US.svg
 ...
 ```
 
-- The `flagUrl` in each country points to:
+Each country object includes a `flagFile` field:
 
 ```json
-"flagUrl": "assets/countries/in.svg"
+"flagFile": "IN.svg"
 ```
 
-- To resolve at runtime:
+You can use this to construct the full flag URL using your own asset CDN or static hosting service.
+
+### ✅ Usage Example
 
 ```ts
 import { getCountryByAlpha2Code } from '@financially/static-data-kit';
 
+const CDN_BASE_URL = 'https://assets.your-domain.com/countries/';
 const country = getCountryByAlpha2Code('IN');
-const flagPath = require.resolve('static-data-kit/' + country.flagUrl);
-```
 
-This ensures compatibility with Node.js, bundlers like Webpack, Vite, etc.
+const flagUrl = `${CDN_BASE_URL}${country.flagFile}`;
+console.log(flagUrl);
+// Output: https://assets.your-domain.com/countries/IN.svg
+```
 
 ---
 

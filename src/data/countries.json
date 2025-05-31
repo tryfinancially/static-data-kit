@@ -11,7 +11,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇨🇫",
-    "flagUrl": "assets/countries/CF.svg",
+    "flagFile": "CF.svg",
     "phonePrefix": "+236"
   },
   {
@@ -26,7 +26,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇰🇲",
-    "flagUrl": "assets/countries/KM.svg",
+    "flagFile": "KM.svg",
     "phonePrefix": "+269"
   },
   {
@@ -41,7 +41,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇮🇱",
-    "flagUrl": "assets/countries/IL.svg",
+    "flagFile": "IL.svg",
     "phonePrefix": "+972"
   },
   {
@@ -56,7 +56,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇦🇼",
-    "flagUrl": "assets/countries/AW.svg",
+    "flagFile": "AW.svg",
     "phonePrefix": "+297"
   },
   {
@@ -71,7 +71,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇧🇿",
-    "flagUrl": "assets/countries/BZ.svg",
+    "flagFile": "BZ.svg",
     "phonePrefix": "+501"
   },
   {
@@ -86,7 +86,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇧🇴",
-    "flagUrl": "assets/countries/BO.svg",
+    "flagFile": "BO.svg",
     "phonePrefix": "+591"
   },
   {
@@ -101,7 +101,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇧🇹",
-    "flagUrl": "assets/countries/BT.svg",
+    "flagFile": "BT.svg",
     "phonePrefix": "+975"
   },
   {
@@ -116,7 +116,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇧🇬",
-    "flagUrl": "assets/countries/BG.svg",
+    "flagFile": "BG.svg",
     "phonePrefix": "+359"
   },
   {
@@ -131,7 +131,7 @@
     "regionCode": "019",
     "subRegionCode": "021",
     "flagUnicode": "🇨🇦",
-    "flagUrl": "assets/countries/CA.svg",
+    "flagFile": "CA.svg",
     "phonePrefix": "+1"
   },
   {
@@ -146,7 +146,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇧🇩",
-    "flagUrl": "assets/countries/BD.svg",
+    "flagFile": "BD.svg",
     "phonePrefix": "+880"
   },
   {
@@ -161,7 +161,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇧🇯",
-    "flagUrl": "assets/countries/BJ.svg",
+    "flagFile": "BJ.svg",
     "phonePrefix": "+229"
   },
   {
@@ -176,7 +176,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇧🇷",
-    "flagUrl": "assets/countries/BR.svg",
+    "flagFile": "BR.svg",
     "phonePrefix": "+55"
   },
   {
@@ -191,7 +191,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇹🇩",
-    "flagUrl": "assets/countries/TD.svg",
+    "flagFile": "TD.svg",
     "phonePrefix": "+235"
   },
   {
@@ -206,7 +206,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇨🇴",
-    "flagUrl": "assets/countries/CO.svg",
+    "flagFile": "CO.svg",
     "phonePrefix": "+57"
   },
   {
@@ -221,7 +221,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇧🇭",
-    "flagUrl": "assets/countries/BH.svg",
+    "flagFile": "BH.svg",
     "phonePrefix": "+973"
   },
   {
@@ -236,7 +236,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇧🇳",
-    "flagUrl": "assets/countries/BN.svg",
+    "flagFile": "BN.svg",
     "phonePrefix": "+673"
   },
   {
@@ -251,7 +251,7 @@
     "regionCode": "009",
     "subRegionCode": "053",
     "flagUnicode": "🇨🇽",
-    "flagUrl": "assets/countries/CX.svg",
+    "flagFile": "CX.svg",
     "phonePrefix": "+61"
   },
   {
@@ -266,7 +266,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇭🇷",
-    "flagUrl": "assets/countries/HR.svg",
+    "flagFile": "HR.svg",
     "phonePrefix": "+385"
   },
   {
@@ -281,7 +281,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇨🇾",
-    "flagUrl": "assets/countries/CY.svg",
+    "flagFile": "CY.svg",
     "phonePrefix": "+357"
   },
   {
@@ -296,7 +296,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇩🇰",
-    "flagUrl": "assets/countries/DK.svg",
+    "flagFile": "DK.svg",
     "phonePrefix": "+45"
   },
   {
@@ -311,7 +311,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇧🇼",
-    "flagUrl": "assets/countries/BW.svg",
+    "flagFile": "BW.svg",
     "phonePrefix": "+267"
   },
   {
@@ -326,7 +326,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇧🇮",
-    "flagUrl": "assets/countries/BI.svg",
+    "flagFile": "BI.svg",
     "phonePrefix": "+257"
   },
   {
@@ -341,7 +341,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇨🇻",
-    "flagUrl": "assets/countries/CV.svg",
+    "flagFile": "CV.svg",
     "phonePrefix": "+238"
   },
   {
@@ -356,7 +356,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇮🇴",
-    "flagUrl": "assets/countries/IO.svg",
+    "flagFile": "IO.svg",
     "phonePrefix": "+246"
   },
   {
@@ -371,7 +371,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇧🇪",
-    "flagUrl": "assets/countries/BE.svg",
+    "flagFile": "BE.svg",
     "phonePrefix": "+32"
   },
   {
@@ -386,7 +386,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇧🇦",
-    "flagUrl": "assets/countries/BA.svg",
+    "flagFile": "BA.svg",
     "phonePrefix": "+387"
   },
   {
@@ -401,7 +401,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇧🇫",
-    "flagUrl": "assets/countries/BF.svg",
+    "flagFile": "BF.svg",
     "phonePrefix": "+226"
   },
   {
@@ -416,7 +416,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇬🇲",
-    "flagUrl": "assets/countries/GM.svg",
+    "flagFile": "GM.svg",
     "phonePrefix": "+220"
   },
   {
@@ -431,7 +431,7 @@
     "regionCode": "019",
     "subRegionCode": "021",
     "flagUnicode": "🇵🇲",
-    "flagUrl": "assets/countries/PM.svg",
+    "flagFile": "PM.svg",
     "phonePrefix": "+508"
   },
   {
@@ -446,7 +446,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇫🇮",
-    "flagUrl": "assets/countries/FI.svg",
+    "flagFile": "FI.svg",
     "phonePrefix": "+358"
   },
   {
@@ -461,7 +461,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇵🇫",
-    "flagUrl": "assets/countries/PF.svg",
+    "flagFile": "PF.svg",
     "phonePrefix": "+689"
   },
   {
@@ -476,7 +476,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇬🇾",
-    "flagUrl": "assets/countries/GY.svg",
+    "flagFile": "GY.svg",
     "phonePrefix": "+592"
   },
   {
@@ -491,7 +491,7 @@
     "regionCode": "009",
     "subRegionCode": "057",
     "flagUnicode": "🇰🇮",
-    "flagUrl": "assets/countries/KI.svg",
+    "flagFile": "KI.svg",
     "phonePrefix": "+686"
   },
   {
@@ -506,7 +506,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇱🇷",
-    "flagUrl": "assets/countries/LR.svg",
+    "flagFile": "LR.svg",
     "phonePrefix": "+231"
   },
   {
@@ -521,7 +521,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇲🇿",
-    "flagUrl": "assets/countries/MZ.svg",
+    "flagFile": "MZ.svg",
     "phonePrefix": "+258"
   },
   {
@@ -536,7 +536,7 @@
     "regionCode": "009",
     "subRegionCode": "053",
     "flagUnicode": "🇳🇿",
-    "flagUrl": "assets/countries/NZ.svg",
+    "flagFile": "NZ.svg",
     "phonePrefix": "+64"
   },
   {
@@ -551,7 +551,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇵🇸",
-    "flagUrl": "assets/countries/PS.svg",
+    "flagFile": "PS.svg",
     "phonePrefix": "+970"
   },
   {
@@ -566,7 +566,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇵🇳",
-    "flagUrl": "assets/countries/PN.svg",
+    "flagFile": "PN.svg",
     "phonePrefix": "+64"
   },
   {
@@ -581,7 +581,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇷🇪",
-    "flagUrl": "assets/countries/RE.svg",
+    "flagFile": "RE.svg",
     "phonePrefix": "+262"
   },
   {
@@ -596,7 +596,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇸🇳",
-    "flagUrl": "assets/countries/SN.svg",
+    "flagFile": "SN.svg",
     "phonePrefix": "+221"
   },
   {
@@ -611,7 +611,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇸🇮",
-    "flagUrl": "assets/countries/SI.svg",
+    "flagFile": "SI.svg",
     "phonePrefix": "+386"
   },
   {
@@ -626,7 +626,7 @@
     "regionCode": "009",
     "subRegionCode": "054",
     "flagUnicode": "🇸🇧",
-    "flagUrl": "assets/countries/SB.svg",
+    "flagFile": "SB.svg",
     "phonePrefix": "+677"
   },
   {
@@ -641,7 +641,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇿🇦",
-    "flagUrl": "assets/countries/ZA.svg",
+    "flagFile": "ZA.svg",
     "phonePrefix": "+27"
   },
   {
@@ -656,7 +656,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇸🇸",
-    "flagUrl": "assets/countries/SS.svg",
+    "flagFile": "SS.svg",
     "phonePrefix": "+211"
   },
   {
@@ -671,7 +671,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇹🇬",
-    "flagUrl": "assets/countries/TG.svg",
+    "flagFile": "TG.svg",
     "phonePrefix": "+228"
   },
   {
@@ -686,7 +686,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇹🇰",
-    "flagUrl": "assets/countries/TK.svg",
+    "flagFile": "TK.svg",
     "phonePrefix": "+690"
   },
   {
@@ -701,7 +701,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇦🇪",
-    "flagUrl": "assets/countries/AE.svg",
+    "flagFile": "AE.svg",
     "phonePrefix": "+971"
   },
   {
@@ -716,7 +716,7 @@
     "regionCode": "142",
     "subRegionCode": "143",
     "flagUnicode": "🇺🇿",
-    "flagUrl": "assets/countries/UZ.svg",
+    "flagFile": "UZ.svg",
     "phonePrefix": "+998"
   },
   {
@@ -731,7 +731,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇻🇳",
-    "flagUrl": "assets/countries/VN.svg",
+    "flagFile": "VN.svg",
     "phonePrefix": "+84"
   },
   {
@@ -746,7 +746,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇿🇲",
-    "flagUrl": "assets/countries/ZM.svg",
+    "flagFile": "ZM.svg",
     "phonePrefix": "+260"
   },
   {
@@ -761,7 +761,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇿🇼",
-    "flagUrl": "assets/countries/ZW.svg",
+    "flagFile": "ZW.svg",
     "phonePrefix": "+263"
   },
   {
@@ -776,7 +776,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇹🇫",
-    "flagUrl": "assets/countries/TF.svg",
+    "flagFile": "TF.svg",
     "phonePrefix": "+33"
   },
   {
@@ -791,7 +791,7 @@
     "regionCode": "009",
     "subRegionCode": "053",
     "flagUnicode": "🇦🇺",
-    "flagUrl": "assets/countries/AU.svg",
+    "flagFile": "AU.svg",
     "phonePrefix": "+61"
   },
   {
@@ -806,7 +806,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇰🇾",
-    "flagUrl": "assets/countries/KY.svg",
+    "flagFile": "KY.svg",
     "phonePrefix": "+1"
   },
   {
@@ -821,7 +821,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇬🇬",
-    "flagUrl": "assets/countries/GG.svg",
+    "flagFile": "GG.svg",
     "phonePrefix": "+44"
   },
   {
@@ -836,7 +836,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇨🇱",
-    "flagUrl": "assets/countries/CL.svg",
+    "flagFile": "CL.svg",
     "phonePrefix": "+56"
   },
   {
@@ -851,7 +851,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇨🇰",
-    "flagUrl": "assets/countries/CK.svg",
+    "flagFile": "CK.svg",
     "phonePrefix": "+682"
   },
   {
@@ -866,7 +866,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇸🇻",
-    "flagUrl": "assets/countries/SV.svg",
+    "flagFile": "SV.svg",
     "phonePrefix": "+503"
   },
   {
@@ -881,7 +881,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇬🇶",
-    "flagUrl": "assets/countries/GQ.svg",
+    "flagFile": "GQ.svg",
     "phonePrefix": "+240"
   },
   {
@@ -896,7 +896,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇬🇷",
-    "flagUrl": "assets/countries/GR.svg",
+    "flagFile": "GR.svg",
     "phonePrefix": "+30"
   },
   {
@@ -911,7 +911,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇭🇹",
-    "flagUrl": "assets/countries/HT.svg",
+    "flagFile": "HT.svg",
     "phonePrefix": "+509"
   },
   {
@@ -926,7 +926,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇭🇺",
-    "flagUrl": "assets/countries/HU.svg",
+    "flagFile": "HU.svg",
     "phonePrefix": "+36"
   },
   {
@@ -941,7 +941,7 @@
     "regionCode": "142",
     "subRegionCode": "143",
     "flagUnicode": "🇰🇬",
-    "flagUrl": "assets/countries/KG.svg",
+    "flagFile": "KG.svg",
     "phonePrefix": "+996"
   },
   {
@@ -956,7 +956,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇱🇦",
-    "flagUrl": "assets/countries/LA.svg",
+    "flagFile": "LA.svg",
     "phonePrefix": "+856"
   },
   {
@@ -971,7 +971,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇱🇹",
-    "flagUrl": "assets/countries/LT.svg",
+    "flagFile": "LT.svg",
     "phonePrefix": "+370"
   },
   {
@@ -986,7 +986,7 @@
     "regionCode": "142",
     "subRegionCode": "030",
     "flagUnicode": "🇲🇴",
-    "flagUrl": "assets/countries/MO.svg",
+    "flagFile": "MO.svg",
     "phonePrefix": "+853"
   },
   {
@@ -1001,7 +1001,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇲🇹",
-    "flagUrl": "assets/countries/MT.svg",
+    "flagFile": "MT.svg",
     "phonePrefix": "+356"
   },
   {
@@ -1016,7 +1016,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇲🇺",
-    "flagUrl": "assets/countries/MU.svg",
+    "flagFile": "MU.svg",
     "phonePrefix": "+230"
   },
   {
@@ -1031,7 +1031,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇳🇦",
-    "flagUrl": "assets/countries/NA.svg",
+    "flagFile": "NA.svg",
     "phonePrefix": "+264"
   },
   {
@@ -1046,7 +1046,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇨🇬",
-    "flagUrl": "assets/countries/CG.svg",
+    "flagFile": "CG.svg",
     "phonePrefix": "+242"
   },
   {
@@ -1061,7 +1061,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇸🇲",
-    "flagUrl": "assets/countries/SM.svg",
+    "flagFile": "SM.svg",
     "phonePrefix": "+378"
   },
   {
@@ -1076,7 +1076,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇷🇸",
-    "flagUrl": "assets/countries/RS.svg",
+    "flagFile": "RS.svg",
     "phonePrefix": "+381"
   },
   {
@@ -1091,7 +1091,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇸🇪",
-    "flagUrl": "assets/countries/SE.svg",
+    "flagFile": "SE.svg",
     "phonePrefix": "+46"
   },
   {
@@ -1106,7 +1106,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇸🇾",
-    "flagUrl": "assets/countries/SY.svg",
+    "flagFile": "SY.svg",
     "phonePrefix": "+963"
   },
   {
@@ -1121,7 +1121,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇹🇷",
-    "flagUrl": "assets/countries/TR.svg",
+    "flagFile": "TR.svg",
     "phonePrefix": "+90"
   },
   {
@@ -1136,7 +1136,7 @@
     "regionCode": "142",
     "subRegionCode": "143",
     "flagUnicode": "🇹🇲",
-    "flagUrl": "assets/countries/TM.svg",
+    "flagFile": "TM.svg",
     "phonePrefix": "+993"
   },
   {
@@ -1151,7 +1151,7 @@
     "regionCode": "009",
     "subRegionCode": "054",
     "flagUnicode": "🇻🇺",
-    "flagUrl": "assets/countries/VU.svg",
+    "flagFile": "VU.svg",
     "phonePrefix": "+678"
   },
   {
@@ -1166,7 +1166,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇾🇪",
-    "flagUrl": "assets/countries/YE.svg",
+    "flagFile": "YE.svg",
     "phonePrefix": "+967"
   },
   {
@@ -1181,7 +1181,7 @@
     "regionCode": "009",
     "subRegionCode": "053",
     "flagUnicode": "🇭🇲",
-    "flagUrl": "assets/countries/HM.svg",
+    "flagFile": "HM.svg",
     "phonePrefix": "+672"
   },
   {
@@ -1196,7 +1196,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇦🇷",
-    "flagUrl": "assets/countries/AR.svg",
+    "flagFile": "AR.svg",
     "phonePrefix": "+54"
   },
   {
@@ -1211,7 +1211,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇻🇬",
-    "flagUrl": "assets/countries/VG.svg",
+    "flagFile": "VG.svg",
     "phonePrefix": "+1"
   },
   {
@@ -1226,7 +1226,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇯🇪",
-    "flagUrl": "assets/countries/JE.svg",
+    "flagFile": "JE.svg",
     "phonePrefix": "+44"
   },
   {
@@ -1241,7 +1241,7 @@
     "regionCode": "142",
     "subRegionCode": "030",
     "flagUnicode": "🇨🇳",
-    "flagUrl": "assets/countries/CN.svg",
+    "flagFile": "CN.svg",
     "phonePrefix": "+86"
   },
   {
@@ -1256,7 +1256,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇫🇴",
-    "flagUrl": "assets/countries/FO.svg",
+    "flagFile": "FO.svg",
     "phonePrefix": "+298"
   },
   {
@@ -1271,7 +1271,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇫🇷",
-    "flagUrl": "assets/countries/FR.svg",
+    "flagFile": "FR.svg",
     "phonePrefix": "+33"
   },
   {
@@ -1286,7 +1286,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇬🇭",
-    "flagUrl": "assets/countries/GH.svg",
+    "flagFile": "GH.svg",
     "phonePrefix": "+233"
   },
   {
@@ -1301,7 +1301,7 @@
     "regionCode": "019",
     "subRegionCode": "021",
     "flagUnicode": "🇬🇱",
-    "flagUrl": "assets/countries/GL.svg",
+    "flagFile": "GL.svg",
     "phonePrefix": "+299"
   },
   {
@@ -1316,7 +1316,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇬🇹",
-    "flagUrl": "assets/countries/GT.svg",
+    "flagFile": "GT.svg",
     "phonePrefix": "+502"
   },
   {
@@ -1331,7 +1331,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇬🇳",
-    "flagUrl": "assets/countries/GN.svg",
+    "flagFile": "GN.svg",
     "phonePrefix": "+224"
   },
   {
@@ -1346,7 +1346,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇮🇸",
-    "flagUrl": "assets/countries/IS.svg",
+    "flagFile": "IS.svg",
     "phonePrefix": "+354"
   },
   {
@@ -1361,7 +1361,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇯🇴",
-    "flagUrl": "assets/countries/JO.svg",
+    "flagFile": "JO.svg",
     "phonePrefix": "+962"
   },
   {
@@ -1376,7 +1376,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇱🇸",
-    "flagUrl": "assets/countries/LS.svg",
+    "flagFile": "LS.svg",
     "phonePrefix": "+266"
   },
   {
@@ -1391,7 +1391,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇲🇼",
-    "flagUrl": "assets/countries/MW.svg",
+    "flagFile": "MW.svg",
     "phonePrefix": "+265"
   },
   {
@@ -1406,7 +1406,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇲🇷",
-    "flagUrl": "assets/countries/MR.svg",
+    "flagFile": "MR.svg",
     "phonePrefix": "+222"
   },
   {
@@ -1421,7 +1421,7 @@
     "regionCode": "142",
     "subRegionCode": "030",
     "flagUnicode": "🇲🇳",
-    "flagUrl": "assets/countries/MN.svg",
+    "flagFile": "MN.svg",
     "phonePrefix": "+976"
   },
   {
@@ -1436,7 +1436,7 @@
     "regionCode": "002",
     "subRegionCode": "015",
     "flagUnicode": "🇲🇦",
-    "flagUrl": "assets/countries/MA.svg",
+    "flagFile": "MA.svg",
     "phonePrefix": "+212"
   },
   {
@@ -1451,7 +1451,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇲🇲",
-    "flagUrl": "assets/countries/MM.svg",
+    "flagFile": "MM.svg",
     "phonePrefix": "+95"
   },
   {
@@ -1466,7 +1466,7 @@
     "regionCode": "009",
     "subRegionCode": "057",
     "flagUnicode": "🇳🇷",
-    "flagUrl": "assets/countries/NR.svg",
+    "flagFile": "NR.svg",
     "phonePrefix": "+674"
   },
   {
@@ -1481,7 +1481,7 @@
     "regionCode": "009",
     "subRegionCode": "054",
     "flagUnicode": "🇳🇨",
-    "flagUrl": "assets/countries/NC.svg",
+    "flagFile": "NC.svg",
     "phonePrefix": "+687"
   },
   {
@@ -1496,7 +1496,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇳🇮",
-    "flagUrl": "assets/countries/NI.svg",
+    "flagFile": "NI.svg",
     "phonePrefix": "+505"
   },
   {
@@ -1511,7 +1511,7 @@
     "regionCode": "009",
     "subRegionCode": "054",
     "flagUnicode": "🇵🇬",
-    "flagUrl": "assets/countries/PG.svg",
+    "flagFile": "PG.svg",
     "phonePrefix": "+675"
   },
   {
@@ -1526,7 +1526,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇪🇷",
-    "flagUrl": "assets/countries/ER.svg",
+    "flagFile": "ER.svg",
     "phonePrefix": "+291"
   },
   {
@@ -1541,7 +1541,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇵🇾",
-    "flagUrl": "assets/countries/PY.svg",
+    "flagFile": "PY.svg",
     "phonePrefix": "+595"
   },
   {
@@ -1556,7 +1556,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇷🇺",
-    "flagUrl": "assets/countries/RU.svg",
+    "flagFile": "RU.svg",
     "phonePrefix": "+7"
   },
   {
@@ -1571,7 +1571,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇸🇭",
-    "flagUrl": "assets/countries/SH.svg",
+    "flagFile": "SH.svg",
     "phonePrefix": "+290"
   },
   {
@@ -1586,7 +1586,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇸🇯",
-    "flagUrl": "assets/countries/SJ.svg",
+    "flagFile": "SJ.svg",
     "phonePrefix": "+47"
   },
   {
@@ -1601,7 +1601,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇸🇿",
-    "flagUrl": "assets/countries/SZ.svg",
+    "flagFile": "SZ.svg",
     "phonePrefix": "+268"
   },
   {
@@ -1616,7 +1616,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇹🇭",
-    "flagUrl": "assets/countries/TH.svg",
+    "flagFile": "TH.svg",
     "phonePrefix": "+66"
   },
   {
@@ -1631,7 +1631,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇹🇴",
-    "flagUrl": "assets/countries/TO.svg",
+    "flagFile": "TO.svg",
     "phonePrefix": "+676"
   },
   {
@@ -1646,7 +1646,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇧🇸",
-    "flagUrl": "assets/countries/BS.svg",
+    "flagFile": "BS.svg",
     "phonePrefix": "+1"
   },
   {
@@ -1661,7 +1661,7 @@
     "regionCode": "",
     "subRegionCode": "",
     "flagUnicode": "🇦🇶",
-    "flagUrl": "assets/countries/AQ.svg",
+    "flagFile": "AQ.svg",
     "phonePrefix": "+672"
   },
   {
@@ -1676,7 +1676,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇨🇩",
-    "flagUrl": "assets/countries/CD.svg",
+    "flagFile": "CD.svg",
     "phonePrefix": "+243"
   },
   {
@@ -1691,7 +1691,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇪🇨",
-    "flagUrl": "assets/countries/EC.svg",
+    "flagFile": "EC.svg",
     "phonePrefix": "+593"
   },
   {
@@ -1706,7 +1706,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇬🇮",
-    "flagUrl": "assets/countries/GI.svg",
+    "flagFile": "GI.svg",
     "phonePrefix": "+350"
   },
   {
@@ -1721,7 +1721,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇭🇳",
-    "flagUrl": "assets/countries/HN.svg",
+    "flagFile": "HN.svg",
     "phonePrefix": "+504"
   },
   {
@@ -1736,7 +1736,7 @@
     "regionCode": "142",
     "subRegionCode": "030",
     "flagUnicode": "🇭🇰",
-    "flagUrl": "assets/countries/HK.svg",
+    "flagFile": "HK.svg",
     "phonePrefix": "+852"
   },
   {
@@ -1751,7 +1751,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇮🇹",
-    "flagUrl": "assets/countries/IT.svg",
+    "flagFile": "IT.svg",
     "phonePrefix": "+39"
   },
   {
@@ -1766,7 +1766,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇨🇮",
-    "flagUrl": "assets/countries/CI.svg",
+    "flagFile": "CI.svg",
     "phonePrefix": "+225"
   },
   {
@@ -1781,7 +1781,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇰🇼",
-    "flagUrl": "assets/countries/KW.svg",
+    "flagFile": "KW.svg",
     "phonePrefix": "+965"
   },
   {
@@ -1796,7 +1796,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇲🇬",
-    "flagUrl": "assets/countries/MG.svg",
+    "flagFile": "MG.svg",
     "phonePrefix": "+261"
   },
   {
@@ -1811,7 +1811,7 @@
     "regionCode": "009",
     "subRegionCode": "057",
     "flagUnicode": "🇫🇲",
-    "flagUrl": "assets/countries/FM.svg",
+    "flagFile": "FM.svg",
     "phonePrefix": "+691"
   },
   {
@@ -1826,7 +1826,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇳🇵",
-    "flagUrl": "assets/countries/NP.svg",
+    "flagFile": "NP.svg",
     "phonePrefix": "+977"
   },
   {
@@ -1841,7 +1841,7 @@
     "regionCode": "142",
     "subRegionCode": "030",
     "flagUnicode": "🇰🇵",
-    "flagUrl": "assets/countries/KP.svg",
+    "flagFile": "KP.svg",
     "phonePrefix": "+850"
   },
   {
@@ -1856,7 +1856,7 @@
     "regionCode": "009",
     "subRegionCode": "057",
     "flagUnicode": "🇵🇼",
-    "flagUrl": "assets/countries/PW.svg",
+    "flagFile": "PW.svg",
     "phonePrefix": "+680"
   },
   {
@@ -1871,7 +1871,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇧🇱",
-    "flagUrl": "assets/countries/BL.svg",
+    "flagFile": "BL.svg",
     "phonePrefix": "+590"
   },
   {
@@ -1886,7 +1886,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇸🇴",
-    "flagUrl": "assets/countries/SO.svg",
+    "flagFile": "SO.svg",
     "phonePrefix": "+252"
   },
   {
@@ -1901,7 +1901,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇱🇰",
-    "flagUrl": "assets/countries/LK.svg",
+    "flagFile": "LK.svg",
     "phonePrefix": "+94"
   },
   {
@@ -1916,7 +1916,7 @@
     "regionCode": "002",
     "subRegionCode": "015",
     "flagUnicode": "🇸🇩",
-    "flagUrl": "assets/countries/SD.svg",
+    "flagFile": "SD.svg",
     "phonePrefix": "+249"
   },
   {
@@ -1931,7 +1931,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇸🇷",
-    "flagUrl": "assets/countries/SR.svg",
+    "flagFile": "SR.svg",
     "phonePrefix": "+597"
   },
   {
@@ -1946,7 +1946,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇹🇻",
-    "flagUrl": "assets/countries/TV.svg",
+    "flagFile": "TV.svg",
     "phonePrefix": "+688"
   },
   {
@@ -1961,7 +1961,7 @@
     "regionCode": "002",
     "subRegionCode": "015",
     "flagUnicode": "🇪🇭",
-    "flagUrl": "assets/countries/EH.svg",
+    "flagFile": "EH.svg",
     "phonePrefix": "+212"
   },
   {
@@ -1976,7 +1976,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇧🇶",
-    "flagUrl": "assets/countries/BQ.svg",
+    "flagFile": "BQ.svg",
     "phonePrefix": "+599"
   },
   {
@@ -1991,7 +1991,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇦🇮",
-    "flagUrl": "assets/countries/AI.svg",
+    "flagFile": "AI.svg",
     "phonePrefix": "+1"
   },
   {
@@ -2006,7 +2006,7 @@
     "regionCode": "009",
     "subRegionCode": "057",
     "flagUnicode": "🇬🇺",
-    "flagUrl": "assets/countries/GU.svg",
+    "flagFile": "GU.svg",
     "phonePrefix": "+1"
   },
   {
@@ -2021,7 +2021,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇩🇯",
-    "flagUrl": "assets/countries/DJ.svg",
+    "flagFile": "DJ.svg",
     "phonePrefix": "+253"
   },
   {
@@ -2036,7 +2036,7 @@
     "regionCode": "002",
     "subRegionCode": "015",
     "flagUnicode": "🇪🇬",
-    "flagUrl": "assets/countries/EG.svg",
+    "flagFile": "EG.svg",
     "phonePrefix": "+20"
   },
   {
@@ -2051,7 +2051,7 @@
     "regionCode": "009",
     "subRegionCode": "054",
     "flagUnicode": "🇫🇯",
-    "flagUrl": "assets/countries/FJ.svg",
+    "flagFile": "FJ.svg",
     "phonePrefix": "+679"
   },
   {
@@ -2066,7 +2066,7 @@
     "regionCode": "142",
     "subRegionCode": "030",
     "flagUnicode": "🇯🇵",
-    "flagUrl": "assets/countries/JP.svg",
+    "flagFile": "JP.svg",
     "phonePrefix": "+81"
   },
   {
@@ -2081,7 +2081,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇱🇮",
-    "flagUrl": "assets/countries/LI.svg",
+    "flagFile": "LI.svg",
     "phonePrefix": "+423"
   },
   {
@@ -2096,7 +2096,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇲🇰",
-    "flagUrl": "assets/countries/MK.svg",
+    "flagFile": "MK.svg",
     "phonePrefix": "+389"
   },
   {
@@ -2111,7 +2111,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇲🇽",
-    "flagUrl": "assets/countries/MX.svg",
+    "flagFile": "MX.svg",
     "phonePrefix": "+52"
   },
   {
@@ -2126,7 +2126,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇲🇩",
-    "flagUrl": "assets/countries/MD.svg",
+    "flagFile": "MD.svg",
     "phonePrefix": "+373"
   },
   {
@@ -2141,7 +2141,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇲🇪",
-    "flagUrl": "assets/countries/ME.svg",
+    "flagFile": "ME.svg",
     "phonePrefix": "+382"
   },
   {
@@ -2156,7 +2156,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇳🇪",
-    "flagUrl": "assets/countries/NE.svg",
+    "flagFile": "NE.svg",
     "phonePrefix": "+227"
   },
   {
@@ -2171,7 +2171,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇳🇴",
-    "flagUrl": "assets/countries/NO.svg",
+    "flagFile": "NO.svg",
     "phonePrefix": "+47"
   },
   {
@@ -2186,7 +2186,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇵🇹",
-    "flagUrl": "assets/countries/PT.svg",
+    "flagFile": "PT.svg",
     "phonePrefix": "+351"
   },
   {
@@ -2201,7 +2201,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇶🇦",
-    "flagUrl": "assets/countries/QA.svg",
+    "flagFile": "QA.svg",
     "phonePrefix": "+974"
   },
   {
@@ -2216,7 +2216,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇷🇼",
-    "flagUrl": "assets/countries/RW.svg",
+    "flagFile": "RW.svg",
     "phonePrefix": "+250"
   },
   {
@@ -2231,7 +2231,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇸🇱",
-    "flagUrl": "assets/countries/SL.svg",
+    "flagFile": "SL.svg",
     "phonePrefix": "+232"
   },
   {
@@ -2246,7 +2246,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇨🇭",
-    "flagUrl": "assets/countries/CH.svg",
+    "flagFile": "CH.svg",
     "phonePrefix": "+41"
   },
   {
@@ -2261,7 +2261,7 @@
     "regionCode": "142",
     "subRegionCode": "030",
     "flagUnicode": "🇹🇼",
-    "flagUrl": "assets/countries/TW.svg",
+    "flagFile": "TW.svg",
     "phonePrefix": "+886"
   },
   {
@@ -2276,7 +2276,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇺🇦",
-    "flagUrl": "assets/countries/UA.svg",
+    "flagFile": "UA.svg",
     "phonePrefix": "+380"
   },
   {
@@ -2291,7 +2291,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇺🇾",
-    "flagUrl": "assets/countries/UY.svg",
+    "flagFile": "UY.svg",
     "phonePrefix": "+598"
   },
   {
@@ -2306,7 +2306,7 @@
     "regionCode": "019",
     "subRegionCode": "021",
     "flagUnicode": "🇧🇲",
-    "flagUrl": "assets/countries/BM.svg",
+    "flagFile": "BM.svg",
     "phonePrefix": "+1"
   },
   {
@@ -2321,7 +2321,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇦🇿",
-    "flagUrl": "assets/countries/AZ.svg",
+    "flagFile": "AZ.svg",
     "phonePrefix": "+994"
   },
   {
@@ -2336,7 +2336,7 @@
     "regionCode": "009",
     "subRegionCode": "053",
     "flagUnicode": "🇨🇨",
-    "flagUrl": "assets/countries/CC.svg",
+    "flagFile": "CC.svg",
     "phonePrefix": "+61"
   },
   {
@@ -2351,7 +2351,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇨🇷",
-    "flagUrl": "assets/countries/CR.svg",
+    "flagFile": "CR.svg",
     "phonePrefix": "+506"
   },
   {
@@ -2366,7 +2366,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇹🇱",
-    "flagUrl": "assets/countries/TL.svg",
+    "flagFile": "TL.svg",
     "phonePrefix": "+670"
   },
   {
@@ -2381,7 +2381,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇪🇪",
-    "flagUrl": "assets/countries/EE.svg",
+    "flagFile": "EE.svg",
     "phonePrefix": "+372"
   },
   {
@@ -2396,7 +2396,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇪🇹",
-    "flagUrl": "assets/countries/ET.svg",
+    "flagFile": "ET.svg",
     "phonePrefix": "+251"
   },
   {
@@ -2411,7 +2411,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇫🇰",
-    "flagUrl": "assets/countries/FK.svg",
+    "flagFile": "FK.svg",
     "phonePrefix": "+500"
   },
   {
@@ -2426,7 +2426,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇮🇳",
-    "flagUrl": "assets/countries/IN.svg",
+    "flagFile": "IN.svg",
     "phonePrefix": "+91"
   },
   {
@@ -2441,7 +2441,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇮🇶",
-    "flagUrl": "assets/countries/IQ.svg",
+    "flagFile": "IQ.svg",
     "phonePrefix": "+964"
   },
   {
@@ -2456,7 +2456,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇮🇪",
-    "flagUrl": "assets/countries/IE.svg",
+    "flagFile": "IE.svg",
     "phonePrefix": "+353"
   },
   {
@@ -2471,7 +2471,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇱🇧",
-    "flagUrl": "assets/countries/LB.svg",
+    "flagFile": "LB.svg",
     "phonePrefix": "+961"
   },
   {
@@ -2486,7 +2486,7 @@
     "regionCode": "002",
     "subRegionCode": "015",
     "flagUnicode": "🇱🇾",
-    "flagUrl": "assets/countries/LY.svg",
+    "flagFile": "LY.svg",
     "phonePrefix": "+218"
   },
   {
@@ -2501,7 +2501,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇲🇾",
-    "flagUrl": "assets/countries/MY.svg",
+    "flagFile": "MY.svg",
     "phonePrefix": "+60"
   },
   {
@@ -2516,7 +2516,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇲🇻",
-    "flagUrl": "assets/countries/MV.svg",
+    "flagFile": "MV.svg",
     "phonePrefix": "+960"
   },
   {
@@ -2531,7 +2531,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇲🇨",
-    "flagUrl": "assets/countries/MC.svg",
+    "flagFile": "MC.svg",
     "phonePrefix": "+377"
   },
   {
@@ -2546,7 +2546,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇳🇺",
-    "flagUrl": "assets/countries/NU.svg",
+    "flagFile": "NU.svg",
     "phonePrefix": "+683"
   },
   {
@@ -2561,7 +2561,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇴🇲",
-    "flagUrl": "assets/countries/OM.svg",
+    "flagFile": "OM.svg",
     "phonePrefix": "+968"
   },
   {
@@ -2576,7 +2576,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇲🇫",
-    "flagUrl": "assets/countries/MF.svg",
+    "flagFile": "MF.svg",
     "phonePrefix": "+590"
   },
   {
@@ -2591,7 +2591,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇼🇸",
-    "flagUrl": "assets/countries/WS.svg",
+    "flagFile": "WS.svg",
     "phonePrefix": "+685"
   },
   {
@@ -2606,7 +2606,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇸🇹",
-    "flagUrl": "assets/countries/ST.svg",
+    "flagFile": "ST.svg",
     "phonePrefix": "+239"
   },
   {
@@ -2621,7 +2621,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇸🇨",
-    "flagUrl": "assets/countries/SC.svg",
+    "flagFile": "SC.svg",
     "phonePrefix": "+248"
   },
   {
@@ -2636,7 +2636,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇸🇰",
-    "flagUrl": "assets/countries/SK.svg",
+    "flagFile": "SK.svg",
     "phonePrefix": "+421"
   },
   {
@@ -2651,7 +2651,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇪🇸",
-    "flagUrl": "assets/countries/ES.svg",
+    "flagFile": "ES.svg",
     "phonePrefix": "+34"
   },
   {
@@ -2666,7 +2666,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇹🇿",
-    "flagUrl": "assets/countries/TZ.svg",
+    "flagFile": "TZ.svg",
     "phonePrefix": "+255"
   },
   {
@@ -2681,7 +2681,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇺🇬",
-    "flagUrl": "assets/countries/UG.svg",
+    "flagFile": "UG.svg",
     "phonePrefix": "+256"
   },
   {
@@ -2696,7 +2696,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇻🇦",
-    "flagUrl": "assets/countries/VA.svg",
+    "flagFile": "VA.svg",
     "phonePrefix": "+379"
   },
   {
@@ -2711,7 +2711,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇧🇻",
-    "flagUrl": "assets/countries/BV.svg",
+    "flagFile": "BV.svg",
     "phonePrefix": "+47"
   },
   {
@@ -2726,7 +2726,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇰🇳",
-    "flagUrl": "assets/countries/KN.svg",
+    "flagFile": "KN.svg",
     "phonePrefix": "+1"
   },
   {
@@ -2741,7 +2741,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇧🇾",
-    "flagUrl": "assets/countries/BY.svg",
+    "flagFile": "BY.svg",
     "phonePrefix": "+375"
   },
   {
@@ -2756,7 +2756,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇨🇲",
-    "flagUrl": "assets/countries/CM.svg",
+    "flagFile": "CM.svg",
     "phonePrefix": "+237"
   },
   {
@@ -2771,7 +2771,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇨🇺",
-    "flagUrl": "assets/countries/CU.svg",
+    "flagFile": "CU.svg",
     "phonePrefix": "+53"
   },
   {
@@ -2786,7 +2786,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇨🇼",
-    "flagUrl": "assets/countries/CW.svg",
+    "flagFile": "CW.svg",
     "phonePrefix": "+599"
   },
   {
@@ -2801,7 +2801,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇨🇿",
-    "flagUrl": "assets/countries/CZ.svg",
+    "flagFile": "CZ.svg",
     "phonePrefix": "+420"
   },
   {
@@ -2816,7 +2816,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇬🇦",
-    "flagUrl": "assets/countries/GA.svg",
+    "flagFile": "GA.svg",
     "phonePrefix": "+241"
   },
   {
@@ -2831,7 +2831,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇬🇪",
-    "flagUrl": "assets/countries/GE.svg",
+    "flagFile": "GE.svg",
     "phonePrefix": "+995"
   },
   {
@@ -2846,7 +2846,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇬🇼",
-    "flagUrl": "assets/countries/GW.svg",
+    "flagFile": "GW.svg",
     "phonePrefix": "+245"
   },
   {
@@ -2861,7 +2861,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇮🇷",
-    "flagUrl": "assets/countries/IR.svg",
+    "flagFile": "IR.svg",
     "phonePrefix": "+98"
   },
   {
@@ -2876,7 +2876,7 @@
     "regionCode": "142",
     "subRegionCode": "143",
     "flagUnicode": "🇰🇿",
-    "flagUrl": "assets/countries/KZ.svg",
+    "flagFile": "KZ.svg",
     "phonePrefix": "+7"
   },
   {
@@ -2891,7 +2891,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇰🇪",
-    "flagUrl": "assets/countries/KE.svg",
+    "flagFile": "KE.svg",
     "phonePrefix": "+254"
   },
   {
@@ -2906,7 +2906,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇱🇻",
-    "flagUrl": "assets/countries/LV.svg",
+    "flagFile": "LV.svg",
     "phonePrefix": "+371"
   },
   {
@@ -2921,7 +2921,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇲🇱",
-    "flagUrl": "assets/countries/ML.svg",
+    "flagFile": "ML.svg",
     "phonePrefix": "+223"
   },
   {
@@ -2936,7 +2936,7 @@
     "regionCode": "009",
     "subRegionCode": "057",
     "flagUnicode": "🇲🇭",
-    "flagUrl": "assets/countries/MH.svg",
+    "flagFile": "MH.svg",
     "phonePrefix": "+692"
   },
   {
@@ -2951,7 +2951,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇾🇹",
-    "flagUrl": "assets/countries/YT.svg",
+    "flagFile": "YT.svg",
     "phonePrefix": "+262"
   },
   {
@@ -2966,7 +2966,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇳🇬",
-    "flagUrl": "assets/countries/NG.svg",
+    "flagFile": "NG.svg",
     "phonePrefix": "+234"
   },
   {
@@ -2981,7 +2981,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇵🇦",
-    "flagUrl": "assets/countries/PA.svg",
+    "flagFile": "PA.svg",
     "phonePrefix": "+507"
   },
   {
@@ -2996,7 +2996,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇵🇪",
-    "flagUrl": "assets/countries/PE.svg",
+    "flagFile": "PE.svg",
     "phonePrefix": "+51"
   },
   {
@@ -3011,7 +3011,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇵🇭",
-    "flagUrl": "assets/countries/PH.svg",
+    "flagFile": "PH.svg",
     "phonePrefix": "+63"
   },
   {
@@ -3026,7 +3026,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇵🇱",
-    "flagUrl": "assets/countries/PL.svg",
+    "flagFile": "PL.svg",
     "phonePrefix": "+48"
   },
   {
@@ -3041,7 +3041,7 @@
     "regionCode": "150",
     "subRegionCode": "151",
     "flagUnicode": "🇷🇴",
-    "flagUrl": "assets/countries/RO.svg",
+    "flagFile": "RO.svg",
     "phonePrefix": "+40"
   },
   {
@@ -3056,7 +3056,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇸🇦",
-    "flagUrl": "assets/countries/SA.svg",
+    "flagFile": "SA.svg",
     "phonePrefix": "+966"
   },
   {
@@ -3071,7 +3071,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇸🇬",
-    "flagUrl": "assets/countries/SG.svg",
+    "flagFile": "SG.svg",
     "phonePrefix": "+65"
   },
   {
@@ -3086,7 +3086,7 @@
     "regionCode": "142",
     "subRegionCode": "030",
     "flagUnicode": "🇰🇷",
-    "flagUrl": "assets/countries/KR.svg",
+    "flagFile": "KR.svg",
     "phonePrefix": "+82"
   },
   {
@@ -3101,7 +3101,7 @@
     "regionCode": "142",
     "subRegionCode": "143",
     "flagUnicode": "🇹🇯",
-    "flagUrl": "assets/countries/TJ.svg",
+    "flagFile": "TJ.svg",
     "phonePrefix": "+992"
   },
   {
@@ -3116,7 +3116,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇻🇪",
-    "flagUrl": "assets/countries/VE.svg",
+    "flagFile": "VE.svg",
     "phonePrefix": "+58"
   },
   {
@@ -3131,7 +3131,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇼🇫",
-    "flagUrl": "assets/countries/WF.svg",
+    "flagFile": "WF.svg",
     "phonePrefix": "+681"
   },
   {
@@ -3146,7 +3146,7 @@
     "regionCode": "009",
     "subRegionCode": "053",
     "flagUnicode": "🇳🇫",
-    "flagUrl": "assets/countries/NF.svg",
+    "flagFile": "NF.svg",
     "phonePrefix": "+672"
   },
   {
@@ -3161,7 +3161,7 @@
     "regionCode": "142",
     "subRegionCode": "145",
     "flagUnicode": "🇦🇲",
-    "flagUrl": "assets/countries/AM.svg",
+    "flagFile": "AM.svg",
     "phonePrefix": "+374"
   },
   {
@@ -3176,7 +3176,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇩🇴",
-    "flagUrl": "assets/countries/DO.svg",
+    "flagFile": "DO.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3191,7 +3191,7 @@
     "regionCode": "002",
     "subRegionCode": "015",
     "flagUnicode": "🇹🇳",
-    "flagUrl": "assets/countries/TN.svg",
+    "flagFile": "TN.svg",
     "phonePrefix": "+216"
   },
   {
@@ -3206,7 +3206,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇬🇫",
-    "flagUrl": "assets/countries/GF.svg",
+    "flagFile": "GF.svg",
     "phonePrefix": "+594"
   },
   {
@@ -3221,7 +3221,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇬🇵",
-    "flagUrl": "assets/countries/GP.svg",
+    "flagFile": "GP.svg",
     "phonePrefix": "+590"
   },
   {
@@ -3236,7 +3236,7 @@
     "regionCode": "009",
     "subRegionCode": "061",
     "flagUnicode": "🇦🇸",
-    "flagUrl": "assets/countries/AS.svg",
+    "flagFile": "AS.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3251,7 +3251,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇦🇫",
-    "flagUrl": "assets/countries/AF.svg",
+    "flagFile": "AF.svg",
     "phonePrefix": "+93"
   },
   {
@@ -3266,7 +3266,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇦🇱",
-    "flagUrl": "assets/countries/AL.svg",
+    "flagFile": "AL.svg",
     "phonePrefix": "+355"
   },
   {
@@ -3281,7 +3281,7 @@
     "regionCode": "002",
     "subRegionCode": "015",
     "flagUnicode": "🇩🇿",
-    "flagUrl": "assets/countries/DZ.svg",
+    "flagFile": "DZ.svg",
     "phonePrefix": "+213"
   },
   {
@@ -3296,7 +3296,7 @@
     "regionCode": "150",
     "subRegionCode": "039",
     "flagUnicode": "🇦🇩",
-    "flagUrl": "assets/countries/AD.svg",
+    "flagFile": "AD.svg",
     "phonePrefix": "+376"
   },
   {
@@ -3311,7 +3311,7 @@
     "regionCode": "002",
     "subRegionCode": "202",
     "flagUnicode": "🇦🇴",
-    "flagUrl": "assets/countries/AO.svg",
+    "flagFile": "AO.svg",
     "phonePrefix": "+244"
   },
   {
@@ -3326,7 +3326,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇦🇹",
-    "flagUrl": "assets/countries/AT.svg",
+    "flagFile": "AT.svg",
     "phonePrefix": "+43"
   },
   {
@@ -3341,7 +3341,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇮🇩",
-    "flagUrl": "assets/countries/ID.svg",
+    "flagFile": "ID.svg",
     "phonePrefix": "+62"
   },
   {
@@ -3356,7 +3356,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇱🇺",
-    "flagUrl": "assets/countries/LU.svg",
+    "flagFile": "LU.svg",
     "phonePrefix": "+352"
   },
   {
@@ -3371,7 +3371,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇳🇱",
-    "flagUrl": "assets/countries/NL.svg",
+    "flagFile": "NL.svg",
     "phonePrefix": "+31"
   },
   {
@@ -3386,7 +3386,7 @@
     "regionCode": "142",
     "subRegionCode": "034",
     "flagUnicode": "🇵🇰",
-    "flagUrl": "assets/countries/PK.svg",
+    "flagFile": "PK.svg",
     "phonePrefix": "+92"
   },
   {
@@ -3401,7 +3401,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇲🇶",
-    "flagUrl": "assets/countries/MQ.svg",
+    "flagFile": "MQ.svg",
     "phonePrefix": "+596"
   },
   {
@@ -3416,7 +3416,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇬🇸",
-    "flagUrl": "assets/countries/GS.svg",
+    "flagFile": "GS.svg",
     "phonePrefix": "+500"
   },
   {
@@ -3431,7 +3431,7 @@
     "regionCode": "009",
     "subRegionCode": "057",
     "flagUnicode": "🇺🇲",
-    "flagUrl": "assets/countries/UM.svg",
+    "flagFile": "UM.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3446,7 +3446,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇦🇽",
-    "flagUrl": "assets/countries/AX.svg",
+    "flagFile": "AX.svg",
     "phonePrefix": "+358"
   },
   {
@@ -3461,7 +3461,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇦🇬",
-    "flagUrl": "assets/countries/AG.svg",
+    "flagFile": "AG.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3476,7 +3476,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇧🇧",
-    "flagUrl": "assets/countries/BB.svg",
+    "flagFile": "BB.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3491,7 +3491,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇩🇲",
-    "flagUrl": "assets/countries/DM.svg",
+    "flagFile": "DM.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3506,7 +3506,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇬🇩",
-    "flagUrl": "assets/countries/GD.svg",
+    "flagFile": "GD.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3521,7 +3521,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇮🇲",
-    "flagUrl": "assets/countries/IM.svg",
+    "flagFile": "IM.svg",
     "phonePrefix": "+44"
   },
   {
@@ -3536,7 +3536,7 @@
     "regionCode": "150",
     "subRegionCode": "154",
     "flagUnicode": "🇬🇧",
-    "flagUrl": "assets/countries/GB.svg",
+    "flagFile": "GB.svg",
     "phonePrefix": "+44"
   },
   {
@@ -3551,7 +3551,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇯🇲",
-    "flagUrl": "assets/countries/JM.svg",
+    "flagFile": "JM.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3566,7 +3566,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇲🇸",
-    "flagUrl": "assets/countries/MS.svg",
+    "flagFile": "MS.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3581,7 +3581,7 @@
     "regionCode": "009",
     "subRegionCode": "057",
     "flagUnicode": "🇲🇵",
-    "flagUrl": "assets/countries/MP.svg",
+    "flagFile": "MP.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3596,7 +3596,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇵🇷",
-    "flagUrl": "assets/countries/PR.svg",
+    "flagFile": "PR.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3611,7 +3611,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇱🇨",
-    "flagUrl": "assets/countries/LC.svg",
+    "flagFile": "LC.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3626,7 +3626,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇻🇨",
-    "flagUrl": "assets/countries/VC.svg",
+    "flagFile": "VC.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3641,7 +3641,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇸🇽",
-    "flagUrl": "assets/countries/SX.svg",
+    "flagFile": "SX.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3656,7 +3656,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇹🇹",
-    "flagUrl": "assets/countries/TT.svg",
+    "flagFile": "TT.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3671,7 +3671,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇹🇨",
-    "flagUrl": "assets/countries/TC.svg",
+    "flagFile": "TC.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3686,7 +3686,7 @@
     "regionCode": "019",
     "subRegionCode": "419",
     "flagUnicode": "🇻🇮",
-    "flagUrl": "assets/countries/VI.svg",
+    "flagFile": "VI.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3701,7 +3701,7 @@
     "regionCode": "019",
     "subRegionCode": "021",
     "flagUnicode": "🇺🇸",
-    "flagUrl": "assets/countries/US.svg",
+    "flagFile": "US.svg",
     "phonePrefix": "+1"
   },
   {
@@ -3716,7 +3716,7 @@
     "regionCode": "150",
     "subRegionCode": "155",
     "flagUnicode": "🇩🇪",
-    "flagUrl": "assets/countries/DE.svg",
+    "flagFile": "DE.svg",
     "phonePrefix": "+49"
   },
   {
@@ -3731,7 +3731,7 @@
     "regionCode": "142",
     "subRegionCode": "035",
     "flagUnicode": "🇰🇭",
-    "flagUrl": "assets/countries/KH.svg",
+    "flagFile": "KH.svg",
     "phonePrefix": "+855"
   }
 ]

@@ -1,3 +1,5 @@
+import { DateFormat, TimeFormat, WeekStart } from './enums';
+
 export interface Country {
   commonName: string;
   officialName: string;
@@ -10,7 +12,7 @@ export interface Country {
   regionCode: string;
   subRegionCode: string;
   flagUnicode: string;
-  flagUrl: string;
+  flagFile: string;
   phonePrefix: string;
 }
 
@@ -23,9 +25,9 @@ export interface State {
 
 export interface RegionalSetting {
   countryCode: string;
-  dateFormat: string; // e.g. "dd/MM/yyyy"
-  timeFormat: string; // e.g. "HH:mm"
-  weekStartsOn: 'monday' | 'sunday';
+  dateFormat: DateFormat;
+  timeFormat: TimeFormat;
+  weekStartsOn: WeekStart;
   defaultTimeZone: string; // e.g. "Asia/Phnom_Penh"
   numberFormat: {
     format: string; // e.g. "comma-thousand-dot-decimal"
