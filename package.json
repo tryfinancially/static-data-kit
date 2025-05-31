@@ -1,5 +1,5 @@
 {
-  "name": "static-data-kit",
+  "name": "@financially/static-data-kit",
   "version": "1.0.0",
   "description": "Reference data (countries, currencies, states, etc.) for B2B and SaaS apps.",
   "main": "dist/index.js",
@@ -19,6 +19,10 @@
   ],
   "author": {
     "name": "Suprith Reddy - Financially"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tryfinancially/static-data-kit"
   },
   "license": "MIT",
   "files": [
