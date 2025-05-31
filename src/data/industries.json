@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Accounting",
+    "slug": "accounting"
+  },
+  {
+    "name": "Agriculture",
+    "slug": "agriculture"
+  },
+  {
+    "name": "Airlines/Aviation",
+    "slug": "airlines-aviation"
+  },
+  {
+    "name": "Alternative Dispute Resolution",
+    "slug": "alternative-dispute-resolution"
+  },
+  {
+    "name": "Alternative Medicine",
+    "slug": "alternative-medicine"
+  },
+  {
+    "name": "Animation",
+    "slug": "animation"
+  },
+  {
+    "name": "Apparel & Fashion",
+    "slug": "apparel-fashion"
+  },
+  {
+    "name": "Architecture & Planning",
+    "slug": "architecture-planning"
+  },
+  {
+    "name": "Arts & Crafts",
+    "slug": "arts-crafts"
+  },
+  {
+    "name": "Automotive",
+    "slug": "automotive"
+  },
+  {
+    "name": "Aviation & Aerospace",
+    "slug": "aviation-aerospace"
+  },
+  {
+    "name": "Banking",
+    "slug": "banking"
+  },
+  {
+    "name": "Biotechnology",
+    "slug": "biotechnology"
+  },
+  {
+    "name": "Broadcast Media",
+    "slug": "broadcast-media"
+  },
+  {
+    "name": "Building Materials",
+    "slug": "building-materials"
+  },
+  {
+    "name": "Business Supplies & Equipment",
+    "slug": "business-supplies-equipment"
+  },
+  {
+    "name": "Capital Markets",
+    "slug": "capital-markets"
+  },
+  {
+    "name": "Chemicals",
+    "slug": "chemicals"
+  },
+  {
+    "name": "Civic & Social Organization",
+    "slug": "civic-social-organization"
+  },
+  {
+    "name": "Civil Engineering",
+    "slug": "civil-engineering"
+  },
+  {
+    "name": "Commercial Real Estate",
+    "slug": "commercial-real-estate"
+  },
+  {
+    "name": "Computer & Network Security",
+    "slug": "computer-network-security"
+  },
+  {
+    "name": "Computer Games",
+    "slug": "computer-games"
+  },
+  {
+    "name": "Computer Hardware",
+    "slug": "computer-hardware"
+  },
+  {
+    "name": "Computer Networking",
+    "slug": "computer-networking"
+  },
+  {
+    "name": "Computer Software",
+    "slug": "computer-software"
+  },
+  {
+    "name": "Construction",
+    "slug": "construction"
+  },
+  {
+    "name": "Consumer Electronics",
+    "slug": "consumer-electronics"
+  },
+  {
+    "name": "Consumer Goods",
+    "slug": "consumer-goods"
+  },
+  {
+    "name": "Consumer Services",
+    "slug": "consumer-services"
+  },
+  {
+    "name": "Cosmetics",
+    "slug": "cosmetics"
+  },
+  {
+    "name": "Dairy",
+    "slug": "dairy"
+  },
+  {
+    "name": "Defense & Space",
+    "slug": "defense-space"
+  },
+  {
+    "name": "Design",
+    "slug": "design"
+  },
+  {
+    "name": "E-Learning",
+    "slug": "e-learning"
+  },
+  {
+    "name": "Education Management",
+    "slug": "education-management"
+  },
+  {
+    "name": "Electrical/Electronic Manufacturing",
+    "slug": "electrical-electronic-manufacturing"
+  },
+  {
+    "name": "Entertainment",
+    "slug": "entertainment"
+  },
+  {
+    "name": "Environmental Services",
+    "slug": "environmental-services"
+  },
+  {
+    "name": "Events Services",
+    "slug": "events-services"
+  },
+  {
+    "name": "Executive Office",
+    "slug": "executive-office"
+  },
+  {
+    "name": "Facilities Services",
+    "slug": "facilities-services"
+  },
+  {
+    "name": "Farming",
+    "slug": "farming"
+  },
+  {
+    "name": "Financial Services",
+    "slug": "financial-services"
+  },
+  {
+    "name": "Fine Art",
+    "slug": "fine-art"
+  },
+  {
+    "name": "Fishery",
+    "slug": "fishery"
+  },
+  {
+    "name": "Food & Beverages",
+    "slug": "food-beverages"
+  },
+  {
+    "name": "Food Production",
+    "slug": "food-production"
+  },
+  {
+    "name": "Fund-Raising",
+    "slug": "fund-raising"
+  },
+  {
+    "name": "Furniture",
+    "slug": "furniture"
+  },
+  {
+    "name": "Gambling & Casinos",
+    "slug": "gambling-casinos"
+  },
+  {
+    "name": "Glass, Ceramics & Concrete",
+    "slug": "glass,-ceramics-concrete"
+  },
+  {
+    "name": "Government Administration",
+    "slug": "government-administration"
+  },
+  {
+    "name": "Government Relations",
+    "slug": "government-relations"
+  },
+  {
+    "name": "Graphic Design",
+    "slug": "graphic-design"
+  },
+  {
+    "name": "Health, Wellness & Fitness",
+    "slug": "health,-wellness-fitness"
+  },
+  {
+    "name": "Higher Education",
+    "slug": "higher-education"
+  },
+  {
+    "name": "Hospital & Health Care",
+    "slug": "hospital-health-care"
+  },
+  {
+    "name": "Hospitality",
+    "slug": "hospitality"
+  },
+  {
+    "name": "Human Resources",
+    "slug": "human-resources"
+  },
+  {
+    "name": "Import & Export",
+    "slug": "import-export"
+  },
+  {
+    "name": "Individual & Family Services",
+    "slug": "individual-family-services"
+  },
+  {
+    "name": "Industrial Automation",
+    "slug": "industrial-automation"
+  },
+  {
+    "name": "Information Services",
+    "slug": "information-services"
+  },
+  {
+    "name": "Information Technology & Services",
+    "slug": "information-technology-services"
+  },
+  {
+    "name": "Insurance",
+    "slug": "insurance"
+  },
+  {
+    "name": "International Affairs",
+    "slug": "international-affairs"
+  },
+  {
+    "name": "International Trade & Development",
+    "slug": "international-trade-development"
+  },
+  {
+    "name": "Internet",
+    "slug": "internet"
+  },
+  {
+    "name": "Investment Banking",
+    "slug": "investment-banking"
+  },
+  {
+    "name": "Investment Management",
+    "slug": "investment-management"
+  },
+  {
+    "name": "Judiciary",
+    "slug": "judiciary"
+  },
+  {
+    "name": "Law Enforcement",
+    "slug": "law-enforcement"
+  },
+  {
+    "name": "Law Practice",
+    "slug": "law-practice"
+  },
+  {
+    "name": "Legal Services",
+    "slug": "legal-services"
+  },
+  {
+    "name": "Legislative Office",
+    "slug": "legislative-office"
+  },
+  {
+    "name": "Leisure, Travel & Tourism",
+    "slug": "leisure,-travel-tourism"
+  },
+  {
+    "name": "Libraries",
+    "slug": "libraries"
+  },
+  {
+    "name": "Logistics & Supply Chain",
+    "slug": "logistics-supply-chain"
+  },
+  {
+    "name": "Luxury Goods & Jewelry",
+    "slug": "luxury-goods-jewelry"
+  },
+  {
+    "name": "Machinery",
+    "slug": "machinery"
+  },
+  {
+    "name": "Management Consulting",
+    "slug": "management-consulting"
+  },
+  {
+    "name": "Maritime",
+    "slug": "maritime"
+  },
+  {
+    "name": "Market Research",
+    "slug": "market-research"
+  },
+  {
+    "name": "Marketing & Advertising",
+    "slug": "marketing-advertising"
+  },
+  {
+    "name": "Mechanical or Industrial Engineering",
+    "slug": "mechanical-or-industrial-engineering"
+  },
+  {
+    "name": "Media Production",
+    "slug": "media-production"
+  },
+  {
+    "name": "Medical Devices",
+    "slug": "medical-devices"
+  },
+  {
+    "name": "Medical Practice",
+    "slug": "medical-practice"
+  },
+  {
+    "name": "Mental Health Care",
+    "slug": "mental-health-care"
+  },
+  {
+    "name": "Military",
+    "slug": "military"
+  },
+  {
+    "name": "Mining & Metals",
+    "slug": "mining-metals"
+  },
+  {
+    "name": "Motion Pictures & Film",
+    "slug": "motion-pictures-film"
+  },
+  {
+    "name": "Museums & Institutions",
+    "slug": "museums-institutions"
+  },
+  {
+    "name": "Music",
+    "slug": "music"
+  },
+  {
+    "name": "Nanotechnology",
+    "slug": "nanotechnology"
+  },
+  {
+    "name": "Newspapers",
+    "slug": "newspapers"
+  },
+  {
+    "name": "Nonprofit Organization Management",
+    "slug": "nonprofit-organization-management"
+  },
+  {
+    "name": "Oil & Energy",
+    "slug": "oil-energy"
+  },
+  {
+    "name": "Online Media",
+    "slug": "online-media"
+  },
+  {
+    "name": "Outsourcing/Offshoring",
+    "slug": "outsourcing-offshoring"
+  },
+  {
+    "name": "Package/Freight Delivery",
+    "slug": "package-freight-delivery"
+  },
+  {
+    "name": "Packaging & Containers",
+    "slug": "packaging-containers"
+  },
+  {
+    "name": "Paper & Forest Products",
+    "slug": "paper-forest-products"
+  },
+  {
+    "name": "Performing Arts",
+    "slug": "performing-arts"
+  },
+  {
+    "name": "Pharmaceuticals",
+    "slug": "pharmaceuticals"
+  },
+  {
+    "name": "Philanthropy",
+    "slug": "philanthropy"
+  },
+  {
+    "name": "Photography",
+    "slug": "photography"
+  },
+  {
+    "name": "Plastics",
+    "slug": "plastics"
+  },
+  {
+    "name": "Political Organization",
+    "slug": "political-organization"
+  },
+  {
+    "name": "Primary/Secondary Education",
+    "slug": "primary-secondary-education"
+  },
+  {
+    "name": "Printing",
+    "slug": "printing"
+  },
+  {
+    "name": "Professional Training & Coaching",
+    "slug": "professional-training-coaching"
+  },
+  {
+    "name": "Program Development",
+    "slug": "program-development"
+  },
+  {
+    "name": "Public Policy",
+    "slug": "public-policy"
+  },
+  {
+    "name": "Public Relations & Communications",
+    "slug": "public-relations-communications"
+  },
+  {
+    "name": "Public Safety",
+    "slug": "public-safety"
+  },
+  {
+    "name": "Publishing",
+    "slug": "publishing"
+  },
+  {
+    "name": "Railroad Manufacture",
+    "slug": "railroad-manufacture"
+  },
+  {
+    "name": "Ranching",
+    "slug": "ranching"
+  },
+  {
+    "name": "Real Estate",
+    "slug": "real-estate"
+  },
+  {
+    "name": "Recreational Facilities & Services",
+    "slug": "recreational-facilities-services"
+  },
+  {
+    "name": "Religious Institutions",
+    "slug": "religious-institutions"
+  },
+  {
+    "name": "Renewables & Environment",
+    "slug": "renewables-environment"
+  },
+  {
+    "name": "Research",
+    "slug": "research"
+  },
+  {
+    "name": "Restaurants",
+    "slug": "restaurants"
+  },
+  {
+    "name": "Retail",
+    "slug": "retail"
+  },
+  {
+    "name": "Security & Investigations",
+    "slug": "security-investigations"
+  },
+  {
+    "name": "Semiconductors",
+    "slug": "semiconductors"
+  },
+  {
+    "name": "Shipbuilding",
+    "slug": "shipbuilding"
+  },
+  {
+    "name": "Sporting Goods",
+    "slug": "sporting-goods"
+  },
+  {
+    "name": "Sports",
+    "slug": "sports"
+  },
+  {
+    "name": "Staffing & Recruiting",
+    "slug": "staffing-recruiting"
+  },
+  {
+    "name": "Supermarkets",
+    "slug": "supermarkets"
+  },
+  {
+    "name": "Telecommunications",
+    "slug": "telecommunications"
+  },
+  {
+    "name": "Textiles",
+    "slug": "textiles"
+  },
+  {
+    "name": "Think Tanks",
+    "slug": "think-tanks"
+  },
+  {
+    "name": "Tobacco",
+    "slug": "tobacco"
+  },
+  {
+    "name": "Translation & Localization",
+    "slug": "translation-localization"
+  },
+  {
+    "name": "Transportation/Trucking/Railroad",
+    "slug": "transportation-trucking-railroad"
+  },
+  {
+    "name": "Utilities",
+    "slug": "utilities"
+  },
+  {
+    "name": "Venture Capital & Private Equity",
+    "slug": "venture-capital-private-equity"
+  },
+  {
+    "name": "Veterinary",
+    "slug": "veterinary"
+  },
+  {
+    "name": "Warehousing",
+    "slug": "warehousing"
+  },
+  {
+    "name": "Wholesale",
+    "slug": "wholesale"
+  },
+  {
+    "name": "Wine & Spirits",
+    "slug": "wine-spirits"
+  },
+  {
+    "name": "Wireless",
+    "slug": "wireless"
+  },
+  {
+    "name": "Writing & Editing",
+    "slug": "writing-editing"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "static-data-kit",
+  "version": "1.0.0",
+  "description": "Reference data (countries, currencies, states, etc.) for B2B and SaaS apps.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "keywords": [
+    "static",
+    "reference-data",
+    "countries",
+    "currencies",
+    "states",
+    "json",
+    "typescript"
+  ],
+  "author": {
+    "name": "Suprith Reddy - Financially"
+  },
+  "license": "MIT",
+  "files": [
+    "dist",
+    "src/data",
+    "src/assets"
+  ],
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsup": "^7.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.1"
+  }
+}

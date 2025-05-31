@@ -1,0 +1,1046 @@
+[
+  {
+    "title": "Chief Executive Officer",
+    "slug": "chief-executive-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Operating Officer",
+    "slug": "chief-operating-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Financial Officer",
+    "slug": "chief-financial-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Technology Officer",
+    "slug": "chief-technology-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Marketing Officer",
+    "slug": "chief-marketing-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Product Officer",
+    "slug": "chief-product-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Human Resources Officer",
+    "slug": "chief-human-resources-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Revenue Officer",
+    "slug": "chief-revenue-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Compliance Officer",
+    "slug": "chief-compliance-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Strategy Officer",
+    "slug": "chief-strategy-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Chief Information Officer",
+    "slug": "chief-information-officer",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "President",
+    "slug": "president",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Vice President",
+    "slug": "vice-president",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "Director",
+    "slug": "director",
+    "category": "Executive Leadership",
+    "categorySlug": "executive-leadership"
+  },
+  {
+    "title": "General Manager",
+    "slug": "general-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Operations Manager",
+    "slug": "operations-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Account Manager",
+    "slug": "account-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Project Manager",
+    "slug": "project-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Product Manager",
+    "slug": "product-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Program Manager",
+    "slug": "program-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Business Development Manager",
+    "slug": "business-development-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Marketing Manager",
+    "slug": "marketing-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Sales Manager",
+    "slug": "sales-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Finance Manager",
+    "slug": "finance-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Human Resources Manager",
+    "slug": "human-resources-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "IT Manager",
+    "slug": "it-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Engineering Manager",
+    "slug": "engineering-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Customer Success Manager",
+    "slug": "customer-success-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Compliance Manager",
+    "slug": "compliance-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Quality Assurance Manager",
+    "slug": "quality-assurance-manager",
+    "category": "Management",
+    "categorySlug": "management"
+  },
+  {
+    "title": "Software Engineer",
+    "slug": "software-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "slug": "senior-software-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Lead Engineer",
+    "slug": "lead-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Frontend Developer",
+    "slug": "frontend-developer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Backend Developer",
+    "slug": "backend-developer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Full Stack Developer",
+    "slug": "full-stack-developer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "DevOps Engineer",
+    "slug": "devops-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Cloud Engineer",
+    "slug": "cloud-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Data Engineer",
+    "slug": "data-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "slug": "machine-learning-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "AI Engineer",
+    "slug": "ai-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Systems Engineer",
+    "slug": "systems-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "QA Engineer",
+    "slug": "qa-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "slug": "site-reliability-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Embedded Systems Engineer",
+    "slug": "embedded-systems-engineer",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Solutions Architect",
+    "slug": "solutions-architect",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Technical Lead",
+    "slug": "technical-lead",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Engineering Specialist",
+    "slug": "engineering-specialist",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "IT Support Specialist",
+    "slug": "it-support-specialist",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Network Administrator",
+    "slug": "network-administrator",
+    "category": "Engineering & Technology",
+    "categorySlug": "engineering-and-technology"
+  },
+  {
+    "title": "Sales Representative",
+    "slug": "sales-representative",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Sales Associate",
+    "slug": "sales-associate",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Sales Executive",
+    "slug": "sales-executive",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Account Executive",
+    "slug": "account-executive",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Senior Account Executive",
+    "slug": "senior-account-executive",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Business Development Representative",
+    "slug": "business-development-representative",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Business Development Executive",
+    "slug": "business-development-executive",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Sales Development Representative",
+    "slug": "sales-development-representative",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Territory Manager",
+    "slug": "territory-manager",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Key Account Manager",
+    "slug": "key-account-manager",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Regional Sales Manager",
+    "slug": "regional-sales-manager",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Channel Sales Manager",
+    "slug": "channel-sales-manager",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Inside Sales Representative",
+    "slug": "inside-sales-representative",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Outside Sales Representative",
+    "slug": "outside-sales-representative",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Partner Manager",
+    "slug": "partner-manager",
+    "category": "Sales & Business Development",
+    "categorySlug": "sales-and-business-development"
+  },
+  {
+    "title": "Marketing Specialist",
+    "slug": "marketing-specialist",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Marketing Coordinator",
+    "slug": "marketing-coordinator",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Digital Marketing Specialist",
+    "slug": "digital-marketing-specialist",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Content Marketing Manager",
+    "slug": "content-marketing-manager",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "SEO Specialist",
+    "slug": "seo-specialist",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Social Media Manager",
+    "slug": "social-media-manager",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Marketing Analyst",
+    "slug": "marketing-analyst",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Brand Manager",
+    "slug": "brand-manager",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Creative Director",
+    "slug": "creative-director",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Product Marketing Manager",
+    "slug": "product-marketing-manager",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Growth Marketing Manager",
+    "slug": "growth-marketing-manager",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Performance Marketing Manager",
+    "slug": "performance-marketing-manager",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "PR Manager",
+    "slug": "pr-manager",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Advertising Manager",
+    "slug": "advertising-manager",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Email Marketing Specialist",
+    "slug": "email-marketing-specialist",
+    "category": "Marketing",
+    "categorySlug": "marketing"
+  },
+  {
+    "title": "Accountant",
+    "slug": "accountant",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Certified Public Accountant",
+    "slug": "certified-public-accountant",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Financial Analyst",
+    "slug": "financial-analyst",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Finance Coordinator",
+    "slug": "finance-coordinator",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Controller",
+    "slug": "controller",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Bookkeeper",
+    "slug": "bookkeeper",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Tax Specialist",
+    "slug": "tax-specialist",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Payroll Specialist",
+    "slug": "payroll-specialist",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Budget Analyst",
+    "slug": "budget-analyst",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Auditor",
+    "slug": "auditor",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Treasury Analyst",
+    "slug": "treasury-analyst",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Investment Analyst",
+    "slug": "investment-analyst",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Financial Planner",
+    "slug": "financial-planner",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Chief Financial Officer",
+    "slug": "chief-financial-officer",
+    "category": "Finance & Accounting",
+    "categorySlug": "finance-and-accounting"
+  },
+  {
+    "title": "Customer Support Representative",
+    "slug": "customer-support-representative",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "Customer Success Associate",
+    "slug": "customer-success-associate",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "Customer Success Manager",
+    "slug": "customer-success-manager",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "Support Specialist",
+    "slug": "support-specialist",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "Client Relationship Manager",
+    "slug": "client-relationship-manager",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "Technical Support Specialist",
+    "slug": "technical-support-specialist",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "Customer Care Specialist",
+    "slug": "customer-care-specialist",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "Customer Experience Manager",
+    "slug": "customer-experience-manager",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "Account Support Manager",
+    "slug": "account-support-manager",
+    "category": "Customer Support & Success",
+    "categorySlug": "customer-support-and-success"
+  },
+  {
+    "title": "HR Specialist",
+    "slug": "hr-specialist",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "HR Manager",
+    "slug": "hr-manager",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "Recruiter",
+    "slug": "recruiter",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "Talent Acquisition Specialist",
+    "slug": "talent-acquisition-specialist",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "HR Coordinator",
+    "slug": "hr-coordinator",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "HR Business Partner",
+    "slug": "hr-business-partner",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "Compensation & Benefits Specialist",
+    "slug": "compensation-benefits-specialist",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "HR Generalist",
+    "slug": "hr-generalist",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "HR Director",
+    "slug": "hr-director",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "Training & Development Manager",
+    "slug": "training-development-manager",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "Employee Engagement Specialist",
+    "slug": "employee-engagement-specialist",
+    "category": "Human Resources",
+    "categorySlug": "human-resources"
+  },
+  {
+    "title": "Operations Coordinator",
+    "slug": "operations-coordinator",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Operations Specialist",
+    "slug": "operations-specialist",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Logistics Coordinator",
+    "slug": "logistics-coordinator",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Supply Chain Manager",
+    "slug": "supply-chain-manager",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Procurement Specialist",
+    "slug": "procurement-specialist",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Warehouse Manager",
+    "slug": "warehouse-manager",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Inventory Manager",
+    "slug": "inventory-manager",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Facilities Manager",
+    "slug": "facilities-manager",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Fleet Manager",
+    "slug": "fleet-manager",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Fulfillment Specialist",
+    "slug": "fulfillment-specialist",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Operations Director",
+    "slug": "operations-director",
+    "category": "Operations & Logistics",
+    "categorySlug": "operations-and-logistics"
+  },
+  {
+    "title": "Legal Counsel",
+    "slug": "legal-counsel",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "Compliance Officer",
+    "slug": "compliance-officer",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "Contract Specialist",
+    "slug": "contract-specialist",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "Paralegal",
+    "slug": "paralegal",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "Regulatory Affairs Specialist",
+    "slug": "regulatory-affairs-specialist",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "Risk Manager",
+    "slug": "risk-manager",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "Corporate Counsel",
+    "slug": "corporate-counsel",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "General Counsel",
+    "slug": "general-counsel",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "Legal Analyst",
+    "slug": "legal-analyst",
+    "category": "Legal & Compliance",
+    "categorySlug": "legal-and-compliance"
+  },
+  {
+    "title": "Data Analyst",
+    "slug": "data-analyst",
+    "category": "Data & Analytics",
+    "categorySlug": "data-and-analytics"
+  },
+  {
+    "title": "Data Scientist",
+    "slug": "data-scientist",
+    "category": "Data & Analytics",
+    "categorySlug": "data-and-analytics"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "slug": "business-intelligence-analyst",
+    "category": "Data & Analytics",
+    "categorySlug": "data-and-analytics"
+  },
+  {
+    "title": "Data Engineer",
+    "slug": "data-engineer",
+    "category": "Data & Analytics",
+    "categorySlug": "data-and-analytics"
+  },
+  {
+    "title": "Analytics Manager",
+    "slug": "analytics-manager",
+    "category": "Data & Analytics",
+    "categorySlug": "data-and-analytics"
+  },
+  {
+    "title": "Reporting Analyst",
+    "slug": "reporting-analyst",
+    "category": "Data & Analytics",
+    "categorySlug": "data-and-analytics"
+  },
+  {
+    "title": "Machine Learning Specialist",
+    "slug": "machine-learning-specialist",
+    "category": "Data & Analytics",
+    "categorySlug": "data-and-analytics"
+  },
+  {
+    "title": "Research Analyst",
+    "slug": "research-analyst",
+    "category": "Data & Analytics",
+    "categorySlug": "data-and-analytics"
+  },
+  {
+    "title": "Graphic Designer",
+    "slug": "graphic-designer",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "UI/UX Designer",
+    "slug": "ui-ux-designer",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Visual Designer",
+    "slug": "visual-designer",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Product Designer",
+    "slug": "product-designer",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Web Designer",
+    "slug": "web-designer",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Creative Director",
+    "slug": "creative-director",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Art Director",
+    "slug": "art-director",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Illustrator",
+    "slug": "illustrator",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Video Editor",
+    "slug": "video-editor",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Animator",
+    "slug": "animator",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Copy Writer",
+    "slug": "copywriter",
+    "category": "Creative & Design",
+    "categorySlug": "creative-and-design"
+  },
+  {
+    "title": "Teacher",
+    "slug": "teacher",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Instructor",
+    "slug": "instructor",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Trainer",
+    "slug": "trainer",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Curriculum Developer",
+    "slug": "curriculum-developer",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Educational Consultant",
+    "slug": "educational-consultant",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Training Manager",
+    "slug": "training-manager",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Learning & Development Specialist",
+    "slug": "learning-development-specialist",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Professor",
+    "slug": "professor",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Tutor",
+    "slug": "tutor",
+    "category": "Education & Training",
+    "categorySlug": "education-and-training"
+  },
+  {
+    "title": "Doctor",
+    "slug": "doctor",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Nurse",
+    "slug": "nurse",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Medical Assistant",
+    "slug": "medical-assistant",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Surgeon",
+    "slug": "surgeon",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Healthcare Administrator",
+    "slug": "healthcare-administrator",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Pharmacist",
+    "slug": "pharmacist",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Therapist",
+    "slug": "therapist",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Physician Assistant",
+    "slug": "physician-assistant",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Medical Technician",
+    "slug": "medical-technician",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Clinical Research Coordinator",
+    "slug": "clinical-research-coordinator",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Dentist",
+    "slug": "dentist",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  },
+  {
+    "title": "Healthcare Consultant",
+    "slug": "healthcare-consultant",
+    "category": "Healthcare",
+    "categorySlug": "healthcare"
+  }
+]

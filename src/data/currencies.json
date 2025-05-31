@@ -1,0 +1,1494 @@
+[
+  {
+    "name": "Ngultrum",
+    "isoAlpha3Code": "BTN",
+    "symbol": "Nu.",
+    "isoNumericCode": "064",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BT"]
+  },
+  {
+    "name": "Pula",
+    "isoAlpha3Code": "BWP",
+    "symbol": "P",
+    "isoNumericCode": "072",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BW"]
+  },
+  {
+    "name": "Belarusian Ruble",
+    "isoAlpha3Code": "BYN",
+    "symbol": "Br",
+    "isoNumericCode": "933",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BY"]
+  },
+  {
+    "name": "Belize Dollar",
+    "isoAlpha3Code": "BZD",
+    "symbol": "BZ$",
+    "isoNumericCode": "084",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BZ"]
+  },
+  {
+    "name": "Canadian Dollar",
+    "isoAlpha3Code": "CAD",
+    "symbol": "$",
+    "isoNumericCode": "124",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CA"]
+  },
+  {
+    "name": "WIR Euro",
+    "isoAlpha3Code": "CHE",
+    "symbol": "CHE",
+    "isoNumericCode": "947",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CH"]
+  },
+  {
+    "name": "Swiss Franc",
+    "isoAlpha3Code": "CHF",
+    "symbol": "CHF",
+    "isoNumericCode": "756",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["LI", "CH"]
+  },
+  {
+    "name": "WIR Franc",
+    "isoAlpha3Code": "CHW",
+    "symbol": "CHW",
+    "isoNumericCode": "948",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CH"]
+  },
+  {
+    "name": "Unidad de Fomento",
+    "isoAlpha3Code": "CLF",
+    "symbol": "CLF",
+    "isoNumericCode": "990",
+    "minorUnit": "4",
+    "supportedCountryCodes": ["CL"]
+  },
+  {
+    "name": "Chilean Peso",
+    "isoAlpha3Code": "CLP",
+    "symbol": "$",
+    "isoNumericCode": "152",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["CL"]
+  },
+  {
+    "name": "Yuan Renminbi",
+    "isoAlpha3Code": "CNY",
+    "symbol": "¥",
+    "isoNumericCode": "156",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CN"]
+  },
+  {
+    "name": "Colombian Peso",
+    "isoAlpha3Code": "COP",
+    "symbol": "$",
+    "isoNumericCode": "170",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CO"]
+  },
+  {
+    "name": "Unidad de Valor Real",
+    "isoAlpha3Code": "COU",
+    "symbol": "COU",
+    "isoNumericCode": "970",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CO"]
+  },
+  {
+    "name": "Costa Rican Colon",
+    "isoAlpha3Code": "CRC",
+    "symbol": "₡",
+    "isoNumericCode": "188",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CR"]
+  },
+  {
+    "name": "Peso Convertible",
+    "isoAlpha3Code": "CUC",
+    "symbol": "$",
+    "isoNumericCode": "931",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CU"]
+  },
+  {
+    "name": "Cuban Peso",
+    "isoAlpha3Code": "CUP",
+    "symbol": "₱",
+    "isoNumericCode": "192",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CU"]
+  },
+  {
+    "name": "Czech Koruna",
+    "isoAlpha3Code": "CZK",
+    "symbol": "Kč",
+    "isoNumericCode": "203",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CZ"]
+  },
+  {
+    "name": "Djibouti Franc",
+    "isoAlpha3Code": "DJF",
+    "symbol": "Fdj",
+    "isoNumericCode": "262",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["DJ"]
+  },
+  {
+    "name": "Algerian Dinar",
+    "isoAlpha3Code": "DZD",
+    "symbol": "دج",
+    "isoNumericCode": "012",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["DZ"]
+  },
+  {
+    "name": "Egyptian Pound",
+    "isoAlpha3Code": "EGP",
+    "symbol": "£",
+    "isoNumericCode": "818",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["EG"]
+  },
+  {
+    "name": "Nakfa",
+    "isoAlpha3Code": "ERN",
+    "symbol": "Nfk",
+    "isoNumericCode": "232",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["ER"]
+  },
+  {
+    "name": "Ethiopian Birr",
+    "isoAlpha3Code": "ETB",
+    "symbol": "Br",
+    "isoNumericCode": "230",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["ET"]
+  },
+  {
+    "name": "Fiji Dollar",
+    "isoAlpha3Code": "FJD",
+    "symbol": "$",
+    "isoNumericCode": "242",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["FJ"]
+  },
+  {
+    "name": "Lari",
+    "isoAlpha3Code": "GEL",
+    "symbol": "₾",
+    "isoNumericCode": "981",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["GE"]
+  },
+  {
+    "name": "Ghana Cedi",
+    "isoAlpha3Code": "GHS",
+    "symbol": "GH₵",
+    "isoNumericCode": "936",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["GH"]
+  },
+  {
+    "name": "Gibraltar Pound",
+    "isoAlpha3Code": "GIP",
+    "symbol": "£",
+    "isoNumericCode": "292",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["GI"]
+  },
+  {
+    "name": "Guinean Franc",
+    "isoAlpha3Code": "GNF",
+    "symbol": "FG",
+    "isoNumericCode": "324",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["GN"]
+  },
+  {
+    "name": "Quetzal",
+    "isoAlpha3Code": "GTQ",
+    "symbol": "Q",
+    "isoNumericCode": "320",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["GT"]
+  },
+  {
+    "name": "Guyana Dollar",
+    "isoAlpha3Code": "GYD",
+    "symbol": "$",
+    "isoNumericCode": "328",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["GY"]
+  },
+  {
+    "name": "Hong Kong Dollar",
+    "isoAlpha3Code": "HKD",
+    "symbol": "$",
+    "isoNumericCode": "344",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["HK"]
+  },
+  {
+    "name": "Lempira",
+    "isoAlpha3Code": "HNL",
+    "symbol": "L",
+    "isoNumericCode": "340",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["HN"]
+  },
+  {
+    "name": "Gourde",
+    "isoAlpha3Code": "HTG",
+    "symbol": "G",
+    "isoNumericCode": "332",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["HT"]
+  },
+  {
+    "name": "Forint",
+    "isoAlpha3Code": "HUF",
+    "symbol": "Ft",
+    "isoNumericCode": "348",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["HU"]
+  },
+  {
+    "name": "Rupiah",
+    "isoAlpha3Code": "IDR",
+    "symbol": "Rp",
+    "isoNumericCode": "360",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["ID"]
+  },
+  {
+    "name": "New Israeli Sheqel",
+    "isoAlpha3Code": "ILS",
+    "symbol": "₪",
+    "isoNumericCode": "376",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["IL"]
+  },
+  {
+    "name": "Indian Rupee",
+    "isoAlpha3Code": "INR",
+    "symbol": "₹",
+    "isoNumericCode": "356",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BT", "IN"]
+  },
+  {
+    "name": "Iraqi Dinar",
+    "isoAlpha3Code": "IQD",
+    "symbol": "ع.د",
+    "isoNumericCode": "368",
+    "minorUnit": "3",
+    "supportedCountryCodes": ["IQ"]
+  },
+  {
+    "name": "Iceland Krona",
+    "isoAlpha3Code": "ISK",
+    "symbol": "kr",
+    "isoNumericCode": "352",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["IS"]
+  },
+  {
+    "name": "Jamaican Dollar",
+    "isoAlpha3Code": "JMD",
+    "symbol": "J$",
+    "isoNumericCode": "388",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["JM"]
+  },
+  {
+    "name": "Jordanian Dinar",
+    "isoAlpha3Code": "JOD",
+    "symbol": "JD",
+    "isoNumericCode": "400",
+    "minorUnit": "3",
+    "supportedCountryCodes": ["JO"]
+  },
+  {
+    "name": "Yen",
+    "isoAlpha3Code": "JPY",
+    "symbol": "¥",
+    "isoNumericCode": "392",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["JP"]
+  },
+  {
+    "name": "Kenyan Shilling",
+    "isoAlpha3Code": "KES",
+    "symbol": "KSh",
+    "isoNumericCode": "404",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["KE"]
+  },
+  {
+    "name": "Som",
+    "isoAlpha3Code": "KGS",
+    "symbol": "лв",
+    "isoNumericCode": "417",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["KG"]
+  },
+  {
+    "name": "Riel",
+    "isoAlpha3Code": "KHR",
+    "symbol": "៛",
+    "isoNumericCode": "116",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["KH"]
+  },
+  {
+    "name": "Kuwaiti Dinar",
+    "isoAlpha3Code": "KWD",
+    "symbol": "KD",
+    "isoNumericCode": "414",
+    "minorUnit": "3",
+    "supportedCountryCodes": ["KW"]
+  },
+  {
+    "name": "Tenge",
+    "isoAlpha3Code": "KZT",
+    "symbol": "₸",
+    "isoNumericCode": "398",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["KZ"]
+  },
+  {
+    "name": "Lebanese Pound",
+    "isoAlpha3Code": "LBP",
+    "symbol": "£",
+    "isoNumericCode": "422",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["LB"]
+  },
+  {
+    "name": "Sri Lanka Rupee",
+    "isoAlpha3Code": "LKR",
+    "symbol": "₨",
+    "isoNumericCode": "144",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["LK"]
+  },
+  {
+    "name": "Liberian Dollar",
+    "isoAlpha3Code": "LRD",
+    "symbol": "$",
+    "isoNumericCode": "430",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["LR"]
+  },
+  {
+    "name": "Loti",
+    "isoAlpha3Code": "LSL",
+    "symbol": "M",
+    "isoNumericCode": "426",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["LS"]
+  },
+  {
+    "name": "Libyan Dinar",
+    "isoAlpha3Code": "LYD",
+    "symbol": "LD",
+    "isoNumericCode": "434",
+    "minorUnit": "3",
+    "supportedCountryCodes": ["LY"]
+  },
+  {
+    "name": "Moroccan Dirham",
+    "isoAlpha3Code": "MAD",
+    "symbol": "MAD",
+    "isoNumericCode": "504",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MA", "EH"]
+  },
+  {
+    "name": "Malagasy Ariary",
+    "isoAlpha3Code": "MGA",
+    "symbol": "Ar",
+    "isoNumericCode": "969",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MG"]
+  },
+  {
+    "name": "Denar",
+    "isoAlpha3Code": "MKD",
+    "symbol": "ден",
+    "isoNumericCode": "807",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MK"]
+  },
+  {
+    "name": "Kyat",
+    "isoAlpha3Code": "MMK",
+    "symbol": "K",
+    "isoNumericCode": "104",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MM"]
+  },
+  {
+    "name": "Tugrik",
+    "isoAlpha3Code": "MNT",
+    "symbol": "₮",
+    "isoNumericCode": "496",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MN"]
+  },
+  {
+    "name": "Ouguiya",
+    "isoAlpha3Code": "MRU",
+    "symbol": "UM",
+    "isoNumericCode": "929",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MR"]
+  },
+  {
+    "name": "Mauritius Rupee",
+    "isoAlpha3Code": "MUR",
+    "symbol": "₨",
+    "isoNumericCode": "480",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MU"]
+  },
+  {
+    "name": "Rufiyaa",
+    "isoAlpha3Code": "MVR",
+    "symbol": "Rf",
+    "isoNumericCode": "462",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MV"]
+  },
+  {
+    "name": "Malawi Kwacha",
+    "isoAlpha3Code": "MWK",
+    "symbol": "MK",
+    "isoNumericCode": "454",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MW"]
+  },
+  {
+    "name": "Mexican Peso",
+    "isoAlpha3Code": "MXN",
+    "symbol": "$",
+    "isoNumericCode": "484",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MX"]
+  },
+  {
+    "name": "Mexican Unidad de Inversion (UDI)",
+    "isoAlpha3Code": "MXV",
+    "symbol": "MXV",
+    "isoNumericCode": "979",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MX"]
+  },
+  {
+    "name": "Malaysian Ringgit",
+    "isoAlpha3Code": "MYR",
+    "symbol": "RM",
+    "isoNumericCode": "458",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MY"]
+  },
+  {
+    "name": "Mozambique Metical",
+    "isoAlpha3Code": "MZN",
+    "symbol": "MT",
+    "isoNumericCode": "943",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MZ"]
+  },
+  {
+    "name": "Namibia Dollar",
+    "isoAlpha3Code": "NAD",
+    "symbol": "$",
+    "isoNumericCode": "516",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["NA"]
+  },
+  {
+    "name": "Naira",
+    "isoAlpha3Code": "NGN",
+    "symbol": "₦",
+    "isoNumericCode": "566",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["NG"]
+  },
+  {
+    "name": "Cordoba Oro",
+    "isoAlpha3Code": "NIO",
+    "symbol": "C$",
+    "isoNumericCode": "558",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["NI"]
+  },
+  {
+    "name": "Norwegian Krone",
+    "isoAlpha3Code": "NOK",
+    "symbol": "kr",
+    "isoNumericCode": "578",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BV", "NO", "SJ"]
+  },
+  {
+    "name": "Nepalese Rupee",
+    "isoAlpha3Code": "NPR",
+    "symbol": "₨",
+    "isoNumericCode": "524",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["NP"]
+  },
+  {
+    "name": "Rial Omani",
+    "isoAlpha3Code": "OMR",
+    "symbol": "﷼",
+    "isoNumericCode": "512",
+    "minorUnit": "3",
+    "supportedCountryCodes": ["OM"]
+  },
+  {
+    "name": "Balboa",
+    "isoAlpha3Code": "PAB",
+    "symbol": "B/.",
+    "isoNumericCode": "590",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["PA"]
+  },
+  {
+    "name": "Sol",
+    "isoAlpha3Code": "PEN",
+    "symbol": "S/.",
+    "isoNumericCode": "604",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["PE"]
+  },
+  {
+    "name": "Kina",
+    "isoAlpha3Code": "PGK",
+    "symbol": "K",
+    "isoNumericCode": "598",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["PG"]
+  },
+  {
+    "name": "Pakistan Rupee",
+    "isoAlpha3Code": "PKR",
+    "symbol": "₨",
+    "isoNumericCode": "586",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["PK"]
+  },
+  {
+    "name": "Zloty",
+    "isoAlpha3Code": "PLN",
+    "symbol": "zł",
+    "isoNumericCode": "985",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["PL"]
+  },
+  {
+    "name": "Guarani",
+    "isoAlpha3Code": "PYG",
+    "symbol": "Gs",
+    "isoNumericCode": "600",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["PY"]
+  },
+  {
+    "name": "Qatari Rial",
+    "isoAlpha3Code": "QAR",
+    "symbol": "﷼",
+    "isoNumericCode": "634",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["QA"]
+  },
+  {
+    "name": "Romanian Leu",
+    "isoAlpha3Code": "RON",
+    "symbol": "lei",
+    "isoNumericCode": "946",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["RO"]
+  },
+  {
+    "name": "Serbian Dinar",
+    "isoAlpha3Code": "RSD",
+    "symbol": "Дин.",
+    "isoNumericCode": "941",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["RS"]
+  },
+  {
+    "name": "Rwanda Franc",
+    "isoAlpha3Code": "RWF",
+    "symbol": "R₣",
+    "isoNumericCode": "646",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["RW"]
+  },
+  {
+    "name": "Saudi Riyal",
+    "isoAlpha3Code": "SAR",
+    "symbol": "﷼",
+    "isoNumericCode": "682",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SA"]
+  },
+  {
+    "name": "Solomon Islands Dollar",
+    "isoAlpha3Code": "SBD",
+    "symbol": "$",
+    "isoNumericCode": "090",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SB"]
+  },
+  {
+    "name": "Seychelles Rupee",
+    "isoAlpha3Code": "SCR",
+    "symbol": "₨",
+    "isoNumericCode": "690",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SC"]
+  },
+  {
+    "name": "Swedish Krona",
+    "isoAlpha3Code": "SEK",
+    "symbol": "kr",
+    "isoNumericCode": "752",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SE"]
+  },
+  {
+    "name": "Singapore Dollar",
+    "isoAlpha3Code": "SGD",
+    "symbol": "S$",
+    "isoNumericCode": "702",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SG"]
+  },
+  {
+    "name": "Somali Shilling",
+    "isoAlpha3Code": "SOS",
+    "symbol": "S",
+    "isoNumericCode": "706",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SO"]
+  },
+  {
+    "name": "Surinam Dollar",
+    "isoAlpha3Code": "SRD",
+    "symbol": "$",
+    "isoNumericCode": "968",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SR"]
+  },
+  {
+    "name": "South Sudanese Pound",
+    "isoAlpha3Code": "SSP",
+    "symbol": "£",
+    "isoNumericCode": "728",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SS"]
+  },
+  {
+    "name": "El Salvador Colon",
+    "isoAlpha3Code": "SVC",
+    "symbol": "$",
+    "isoNumericCode": "222",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SV"]
+  },
+  {
+    "name": "Lilangeni",
+    "isoAlpha3Code": "SZL",
+    "symbol": "E",
+    "isoNumericCode": "748",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SZ"]
+  },
+  {
+    "name": "Baht",
+    "isoAlpha3Code": "THB",
+    "symbol": "฿",
+    "isoNumericCode": "764",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["TH"]
+  },
+  {
+    "name": "Somoni",
+    "isoAlpha3Code": "TJS",
+    "symbol": "SM",
+    "isoNumericCode": "972",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["TJ"]
+  },
+  {
+    "name": "Turkmenistan New Manat",
+    "isoAlpha3Code": "TMT",
+    "symbol": "T",
+    "isoNumericCode": "934",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["TM"]
+  },
+  {
+    "name": "Tunisian Dinar",
+    "isoAlpha3Code": "TND",
+    "symbol": "د.ت",
+    "isoNumericCode": "788",
+    "minorUnit": "3",
+    "supportedCountryCodes": ["TN"]
+  },
+  {
+    "name": "Pa’anga",
+    "isoAlpha3Code": "TOP",
+    "symbol": "T$",
+    "isoNumericCode": "776",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["TO"]
+  },
+  {
+    "name": "Trinidad and Tobago Dollar",
+    "isoAlpha3Code": "TTD",
+    "symbol": "TT$",
+    "isoNumericCode": "780",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["TT"]
+  },
+  {
+    "name": "Won",
+    "isoAlpha3Code": "KRW",
+    "symbol": "₩",
+    "isoNumericCode": "410",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["KR"]
+  },
+  {
+    "name": "Leone",
+    "isoAlpha3Code": "SLE",
+    "symbol": "Le",
+    "isoNumericCode": "925",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SL"]
+  },
+  {
+    "name": "Turkish Lira",
+    "isoAlpha3Code": "TRY",
+    "symbol": "₺",
+    "isoNumericCode": "949",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["TR"]
+  },
+  {
+    "name": "Hryvnia",
+    "isoAlpha3Code": "UAH",
+    "symbol": "₴",
+    "isoNumericCode": "980",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["UA"]
+  },
+  {
+    "name": "Uganda Shilling",
+    "isoAlpha3Code": "UGX",
+    "symbol": "USh",
+    "isoNumericCode": "800",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["UG"]
+  },
+  {
+    "name": "Uruguay Peso en Unidades Indexadas (UI)",
+    "isoAlpha3Code": "UYI",
+    "symbol": "UYI",
+    "isoNumericCode": "940",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["UY"]
+  },
+  {
+    "name": "Peso Uruguayo",
+    "isoAlpha3Code": "UYU",
+    "symbol": "$U",
+    "isoNumericCode": "858",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["UY"]
+  },
+  {
+    "name": "Unidad Previsional",
+    "isoAlpha3Code": "UYW",
+    "symbol": "UYW",
+    "isoNumericCode": "927",
+    "minorUnit": "4",
+    "supportedCountryCodes": ["UY"]
+  },
+  {
+    "name": "Uzbekistan Sum",
+    "isoAlpha3Code": "UZS",
+    "symbol": "лв",
+    "isoNumericCode": "860",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["UZ"]
+  },
+  {
+    "name": "Vatu",
+    "isoAlpha3Code": "VUV",
+    "symbol": "VT",
+    "isoNumericCode": "548",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["VU"]
+  },
+  {
+    "name": "Tala",
+    "isoAlpha3Code": "WST",
+    "symbol": "WS$",
+    "isoNumericCode": "882",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["WS"]
+  },
+  {
+    "name": "Silver",
+    "isoAlpha3Code": "XAG",
+    "symbol": "",
+    "isoNumericCode": "961",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ11_SILVER"]
+  },
+  {
+    "name": "Gold",
+    "isoAlpha3Code": "XAU",
+    "symbol": "",
+    "isoNumericCode": "959",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ08_GOLD"]
+  },
+  {
+    "name": "Bond Markets Unit European Composite Unit (EURCO)",
+    "isoAlpha3Code": "XBA",
+    "symbol": "",
+    "isoNumericCode": "955",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ01_BOND MARKETS UNIT EUROPEAN_EURCO"]
+  },
+  {
+    "name": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+    "isoAlpha3Code": "XBB",
+    "symbol": "",
+    "isoNumericCode": "956",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ02_BOND MARKETS UNIT EUROPEAN_EMU-6"]
+  },
+  {
+    "name": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+    "isoAlpha3Code": "XBC",
+    "symbol": "",
+    "isoNumericCode": "957",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ03_BOND MARKETS UNIT EUROPEAN_EUA-9"]
+  },
+  {
+    "name": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+    "isoAlpha3Code": "XBD",
+    "symbol": "",
+    "isoNumericCode": "958",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ04_BOND MARKETS UNIT EUROPEAN_EUA-17"]
+  },
+  {
+    "name": "East Caribbean Dollar",
+    "isoAlpha3Code": "XCD",
+    "symbol": "$",
+    "isoNumericCode": "951",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AI", "AG", "DM", "GD", "MS", "KN", "LC", "VC"]
+  },
+  {
+    "name": "SDR (Special Drawing Right)",
+    "isoAlpha3Code": "XDR",
+    "symbol": "",
+    "isoNumericCode": "960",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["INTERNATIONAL MONETARY FUND (IMF)"]
+  },
+  {
+    "name": "Palladium",
+    "isoAlpha3Code": "XPD",
+    "symbol": "",
+    "isoNumericCode": "964",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ09_PALLADIUM"]
+  },
+  {
+    "name": "CFP Franc",
+    "isoAlpha3Code": "XPF",
+    "symbol": "₣",
+    "isoNumericCode": "953",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["PF", "NC", "WF"]
+  },
+  {
+    "name": "Platinum",
+    "isoAlpha3Code": "XPT",
+    "symbol": "",
+    "isoNumericCode": "962",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ10_PLATINUM"]
+  },
+  {
+    "name": "Sucre",
+    "isoAlpha3Code": "XSU",
+    "symbol": "Sucre",
+    "isoNumericCode": "994",
+    "minorUnit": "0",
+    "supportedCountryCodes": [
+      "SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS SUCRE"
+    ]
+  },
+  {
+    "name": "Codes specifically reserved for testing purposes",
+    "isoAlpha3Code": "XTS",
+    "symbol": "",
+    "isoNumericCode": "963",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ06_TESTING_CODE"]
+  },
+  {
+    "name": "ADB Unit of Account",
+    "isoAlpha3Code": "XUA",
+    "symbol": "XUA",
+    "isoNumericCode": "965",
+    "minorUnit": "0",
+    "supportedCountryCodes": [
+      "MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP"
+    ]
+  },
+  {
+    "name": "The codes assigned for transactions where no currency is involved",
+    "isoAlpha3Code": "XXX",
+    "symbol": "",
+    "isoNumericCode": "999",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["ZZ07_NO_CURRENCY"]
+  },
+  {
+    "name": "Yemeni Rial",
+    "isoAlpha3Code": "YER",
+    "symbol": "﷼",
+    "isoNumericCode": "886",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["YE"]
+  },
+  {
+    "name": "Rand",
+    "isoAlpha3Code": "ZAR",
+    "symbol": "R",
+    "isoNumericCode": "710",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["LS", "NA", "ZA"]
+  },
+  {
+    "name": "Zambian Kwacha",
+    "isoAlpha3Code": "ZMW",
+    "symbol": "ZK",
+    "isoNumericCode": "967",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["ZM"]
+  },
+  {
+    "name": "Zimbabwe Gold",
+    "isoAlpha3Code": "ZWG",
+    "symbol": "",
+    "isoNumericCode": "924",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["ZW"]
+  },
+  {
+    "name": "UAE Dirham",
+    "isoAlpha3Code": "AED",
+    "symbol": "د.إ",
+    "isoNumericCode": "784",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AE"]
+  },
+  {
+    "name": "Netherlands Antillean Guilder",
+    "isoAlpha3Code": "ANG",
+    "symbol": "ƒ",
+    "isoNumericCode": "532",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CW", "SX"]
+  },
+  {
+    "name": "Australian Dollar",
+    "isoAlpha3Code": "AUD",
+    "symbol": "$",
+    "isoNumericCode": "036",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AU", "CX", "CC", "HM", "KI", "NR", "NF", "TV"]
+  },
+  {
+    "name": "Brunei Dollar",
+    "isoAlpha3Code": "BND",
+    "symbol": "$",
+    "isoNumericCode": "096",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BN"]
+  },
+  {
+    "name": "Boliviano",
+    "isoAlpha3Code": "BOB",
+    "symbol": "$b",
+    "isoNumericCode": "068",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BO"]
+  },
+  {
+    "name": "Mvdol",
+    "isoAlpha3Code": "BOV",
+    "symbol": "BOV",
+    "isoNumericCode": "984",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BO"]
+  },
+  {
+    "name": "Bahamian Dollar",
+    "isoAlpha3Code": "BSD",
+    "symbol": "$",
+    "isoNumericCode": "044",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BS"]
+  },
+  {
+    "name": "Congolese Franc",
+    "isoAlpha3Code": "CDF",
+    "symbol": "FC",
+    "isoNumericCode": "976",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CD"]
+  },
+  {
+    "name": "Cabo Verde Escudo",
+    "isoAlpha3Code": "CVE",
+    "symbol": "$",
+    "isoNumericCode": "132",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CV"]
+  },
+  {
+    "name": "Danish Krone",
+    "isoAlpha3Code": "DKK",
+    "symbol": "kr",
+    "isoNumericCode": "208",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["DK", "FO", "GL"]
+  },
+  {
+    "name": "Dominican Peso",
+    "isoAlpha3Code": "DOP",
+    "symbol": "RD$",
+    "isoNumericCode": "214",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["DO"]
+  },
+  {
+    "name": "Falkland Islands Pound",
+    "isoAlpha3Code": "FKP",
+    "symbol": "£",
+    "isoNumericCode": "238",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["FK"]
+  },
+  {
+    "name": "Dalasi",
+    "isoAlpha3Code": "GMD",
+    "symbol": "D",
+    "isoNumericCode": "270",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["GM"]
+  },
+  {
+    "name": "Iranian Rial",
+    "isoAlpha3Code": "IRR",
+    "symbol": "﷼",
+    "isoNumericCode": "364",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["IR"]
+  },
+  {
+    "name": "Comorian Franc",
+    "isoAlpha3Code": "KMF",
+    "symbol": "CF",
+    "isoNumericCode": "174",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["KM"]
+  },
+  {
+    "name": "North Korean Won",
+    "isoAlpha3Code": "KPW",
+    "symbol": "₩",
+    "isoNumericCode": "408",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["KP"]
+  },
+  {
+    "name": "Cayman Islands Dollar",
+    "isoAlpha3Code": "KYD",
+    "symbol": "$",
+    "isoNumericCode": "136",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["KY"]
+  },
+  {
+    "name": "Lao Kip",
+    "isoAlpha3Code": "LAK",
+    "symbol": "₭",
+    "isoNumericCode": "418",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["LA"]
+  },
+  {
+    "name": "Moldovan Leu",
+    "isoAlpha3Code": "MDL",
+    "symbol": "lei",
+    "isoNumericCode": "498",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MD"]
+  },
+  {
+    "name": "Pataca",
+    "isoAlpha3Code": "MOP",
+    "symbol": "MOP$",
+    "isoNumericCode": "446",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["MO"]
+  },
+  {
+    "name": "New Zealand Dollar",
+    "isoAlpha3Code": "NZD",
+    "symbol": "$",
+    "isoNumericCode": "554",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["CK", "NZ", "NU", "PN", "TK"]
+  },
+  {
+    "name": "Philippine Peso",
+    "isoAlpha3Code": "PHP",
+    "symbol": "₱",
+    "isoNumericCode": "608",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["PH"]
+  },
+  {
+    "name": "Russian Ruble",
+    "isoAlpha3Code": "RUB",
+    "symbol": "₽",
+    "isoNumericCode": "643",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["RU"]
+  },
+  {
+    "name": "Sudanese Pound",
+    "isoAlpha3Code": "SDG",
+    "symbol": "ج.س.",
+    "isoNumericCode": "938",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SD"]
+  },
+  {
+    "name": "Saint Helena Pound",
+    "isoAlpha3Code": "SHP",
+    "symbol": "£",
+    "isoNumericCode": "654",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SH"]
+  },
+  {
+    "name": "Dobra",
+    "isoAlpha3Code": "STN",
+    "symbol": "Db",
+    "isoNumericCode": "930",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["ST"]
+  },
+  {
+    "name": "Syrian Pound",
+    "isoAlpha3Code": "SYP",
+    "symbol": "£",
+    "isoNumericCode": "760",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["SY"]
+  },
+  {
+    "name": "New Taiwan Dollar",
+    "isoAlpha3Code": "TWD",
+    "symbol": "NT$",
+    "isoNumericCode": "901",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["TW"]
+  },
+  {
+    "name": "Tanzanian Shilling",
+    "isoAlpha3Code": "TZS",
+    "symbol": "TSh",
+    "isoNumericCode": "834",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["TZ"]
+  },
+  {
+    "name": "US Dollar (Next day)",
+    "isoAlpha3Code": "USN",
+    "symbol": "$",
+    "isoNumericCode": "997",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["US"]
+  },
+  {
+    "name": "Bolívar Soberano",
+    "isoAlpha3Code": "VES",
+    "symbol": "Bs.S",
+    "isoNumericCode": "928",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["VE"]
+  },
+  {
+    "name": "Dong",
+    "isoAlpha3Code": "VND",
+    "symbol": "₫",
+    "isoNumericCode": "704",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["VN"]
+  },
+  {
+    "name": "CFA Franc BEAC",
+    "isoAlpha3Code": "XAF",
+    "symbol": "FCFA",
+    "isoNumericCode": "950",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["CM", "CF", "TD", "CG", "GQ", "GA"]
+  },
+  {
+    "name": "CFA Franc BCEAO",
+    "isoAlpha3Code": "XOF",
+    "symbol": "CFA",
+    "isoNumericCode": "952",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["BJ", "BF", "CI", "GW", "ML", "NE", "SN", "TG"]
+  },
+  {
+    "name": "Bolívar Soberano",
+    "isoAlpha3Code": "VED",
+    "symbol": "Bs.D",
+    "isoNumericCode": "926",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["VE"]
+  },
+  {
+    "name": "US Dollar",
+    "isoAlpha3Code": "USD",
+    "symbol": "$",
+    "isoNumericCode": "840",
+    "minorUnit": "2",
+    "supportedCountryCodes": [
+      "AS",
+      "BQ",
+      "IO",
+      "EC",
+      "SV",
+      "GU",
+      "HT",
+      "MH",
+      "FM",
+      "MP",
+      "PW",
+      "PA",
+      "PR",
+      "TL",
+      "TC",
+      "UM",
+      "US",
+      "VG",
+      "VI"
+    ]
+  },
+  {
+    "name": "Pound Sterling",
+    "isoAlpha3Code": "GBP",
+    "symbol": "£",
+    "isoNumericCode": "826",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["GG", "IM", "JE", "GB"]
+  },
+  {
+    "name": "Euro",
+    "isoAlpha3Code": "EUR",
+    "symbol": "€",
+    "isoNumericCode": "978",
+    "minorUnit": "2",
+    "supportedCountryCodes": [
+      "AX",
+      "AD",
+      "AT",
+      "BE",
+      "HR",
+      "CY",
+      "EE",
+      "FI",
+      "FR",
+      "GF",
+      "TF",
+      "DE",
+      "GR",
+      "GP",
+      "VA",
+      "IE",
+      "IT",
+      "LV",
+      "LT",
+      "LU",
+      "MT",
+      "MQ",
+      "YT",
+      "MC",
+      "ME",
+      "NL",
+      "PT",
+      "RE",
+      "BL",
+      "MF",
+      "PM",
+      "SM",
+      "SK",
+      "SI",
+      "ES"
+    ]
+  },
+  {
+    "name": "Afghani",
+    "isoAlpha3Code": "AFN",
+    "symbol": "؋",
+    "isoNumericCode": "971",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AF"]
+  },
+  {
+    "name": "Lek",
+    "isoAlpha3Code": "ALL",
+    "symbol": "L",
+    "isoNumericCode": "008",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AL"]
+  },
+  {
+    "name": "Armenian Dram",
+    "isoAlpha3Code": "AMD",
+    "symbol": "֏",
+    "isoNumericCode": "051",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AM"]
+  },
+  {
+    "name": "Kwanza",
+    "isoAlpha3Code": "AOA",
+    "symbol": "Kz",
+    "isoNumericCode": "973",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AO"]
+  },
+  {
+    "name": "Argentine Peso",
+    "isoAlpha3Code": "ARS",
+    "symbol": "$",
+    "isoNumericCode": "032",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AR"]
+  },
+  {
+    "name": "Aruban Florin",
+    "isoAlpha3Code": "AWG",
+    "symbol": "ƒ",
+    "isoNumericCode": "533",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AW"]
+  },
+  {
+    "name": "Azerbaijan Manat",
+    "isoAlpha3Code": "AZN",
+    "symbol": "₼",
+    "isoNumericCode": "944",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["AZ"]
+  },
+  {
+    "name": "Convertible Mark",
+    "isoAlpha3Code": "BAM",
+    "symbol": "KM",
+    "isoNumericCode": "977",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BA"]
+  },
+  {
+    "name": "Barbados Dollar",
+    "isoAlpha3Code": "BBD",
+    "symbol": "$",
+    "isoNumericCode": "052",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BB"]
+  },
+  {
+    "name": "Taka",
+    "isoAlpha3Code": "BDT",
+    "symbol": "৳",
+    "isoNumericCode": "050",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BD"]
+  },
+  {
+    "name": "Bulgarian Lev",
+    "isoAlpha3Code": "BGN",
+    "symbol": "лв",
+    "isoNumericCode": "975",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BG"]
+  },
+  {
+    "name": "Bahraini Dinar",
+    "isoAlpha3Code": "BHD",
+    "symbol": ".د.ب",
+    "isoNumericCode": "048",
+    "minorUnit": "3",
+    "supportedCountryCodes": ["BH"]
+  },
+  {
+    "name": "Burundi Franc",
+    "isoAlpha3Code": "BIF",
+    "symbol": "FBu",
+    "isoNumericCode": "108",
+    "minorUnit": "0",
+    "supportedCountryCodes": ["BI"]
+  },
+  {
+    "name": "Bermudian Dollar",
+    "isoAlpha3Code": "BMD",
+    "symbol": "$",
+    "isoNumericCode": "060",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BM"]
+  },
+  {
+    "name": "Brazilian Real",
+    "isoAlpha3Code": "BRL",
+    "symbol": "R$",
+    "isoNumericCode": "986",
+    "minorUnit": "2",
+    "supportedCountryCodes": ["BR"]
+  }
+]

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+.env
+.vscode/
+.idea/
+*.tsbuildinfo
+*.DS_Store

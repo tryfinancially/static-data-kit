@@ -1,0 +1,3488 @@
+[
+  {
+    "countryCode": "KH",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Phnom_Penh",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "DE",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Berlin",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "US",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/New_York",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "VI",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/St_Thomas",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TC",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Grand_Turk",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TT",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Port_of_Spain",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SX",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Marigot",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "VC",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/St_Vincent",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "LC",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/St_Lucia",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "PR",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Puerto_Rico",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MP",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Guam",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Montserrat",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "JM",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Jamaica",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GB",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/London",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "IM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Isle_of_Man",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Grenada",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "DM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Dominica",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BB",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Barbados",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "AG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Antigua",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "AX",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Mariehamn",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "UM",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Wake",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Atlantic/South_Georgia",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MQ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Martinique",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "PK",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Karachi",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "NL",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Amsterdam",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "LU",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Luxembourg",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "ID",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Jakarta",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "AT",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Vienna",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "AO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Luanda",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "AD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Andorra",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "DZ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Algiers",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "AL",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Tirane",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "AF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Kabul",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "AS",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Pago_Pago",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GP",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Guadeloupe",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "GF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Cayenne",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "TN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Tunis",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "DO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Santo_Domingo",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "AM",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Yerevan",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "NF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Norfolk",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "WF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Pacific/Wallis",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "VE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Caracas",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "TJ",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Dushanbe",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "KR",
+    "dateFormat": "yyyy.MM.dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Seoul",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Singapore",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SA",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Riyadh",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "RO",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Bucharest",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "PL",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Warsaw",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "PH",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Manila",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "PE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Lima",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "PA",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Panama",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "NG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Lagos",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "YT",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Indian/Mayotte",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "MH",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Majuro",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "ML",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Bamako",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "LV",
+    "dateFormat": "yyyy.MM.dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Riga",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "KE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Nairobi",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "KZ",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Almaty",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "IR",
+    "dateFormat": "yyyy/MM/dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Tehran",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GW",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Bissau",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "GE",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Tbilisi",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "GA",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Libreville",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "CZ",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Prague",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "CW",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Curacao",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CU",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Havana",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Douala",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "BY",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Minsk",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "KN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/St_Kitts",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BV",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Antarctica/Troll",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "VA",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Europe/Vatican",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "UG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Kampala",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TZ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Dar_es_Salaam",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "ES",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Madrid",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "SK",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Bratislava",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "SC",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Indian/Mahe",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "ST",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Sao_Tome",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "WS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Apia",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Marigot",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "OM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Muscat",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "NU",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Pacific/Niue",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MC",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Monaco",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "MV",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Indian/Maldives",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MY",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Kuala_Lumpur",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "LY",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Tripoli",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "LB",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Beirut",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "IE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Dublin",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "IQ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Baghdad",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "IN",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Kolkata",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal-lakh-grouping",
+      "example": "1,23,456.78",
+      "groupingStyle": [3, 2],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "FK",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Atlantic/Stanley",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "ET",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Addis_Ababa",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "EE",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Tallinn",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "TL",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Dili",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Costa_Rica",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CC",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Indian/Cocos",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "AZ",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Baku",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "BM",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Atlantic/Bermuda",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "UY",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Montevideo",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "UA",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Kyiv",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "TW",
+    "dateFormat": "yyyy/MM/dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Taipei",
+    "numberFormat": {
+      "format": "no-thousand-dot-decimal",
+      "example": "1234.56",
+      "groupingStyle": [],
+      "decimalSeparator": ".",
+      "thousandSeparator": ""
+    }
+  },
+  {
+    "countryCode": "CH",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Zurich",
+    "numberFormat": {
+      "format": "apostrophe-thousand-comma-decimal",
+      "example": "1’234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "’"
+    }
+  },
+  {
+    "countryCode": "SL",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Freetown",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "RW",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Kigali",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "QA",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Qatar",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "PT",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Lisbon",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "NO",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Oslo",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "NE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Niamey",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "ME",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Podgorica",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "MD",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Chisinau",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "MX",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Mexico_City",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MK",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Skopje",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "LI",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Vaduz",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1’234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "’"
+    }
+  },
+  {
+    "countryCode": "JP",
+    "dateFormat": "yyyy/MM/dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Tokyo",
+    "numberFormat": {
+      "format": "no-thousand-dot-decimal",
+      "example": "1234.56",
+      "groupingStyle": [],
+      "decimalSeparator": ".",
+      "thousandSeparator": ""
+    }
+  },
+  {
+    "countryCode": "FJ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Pacific/Fiji",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "EG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Cairo",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "DJ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Djibouti",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "GU",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Guam",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "AI",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Anguilla",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BQ",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Curacao",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "EH",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/El_Aaiun",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "TV",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Funafuti",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SR",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Paramaribo",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "SD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Khartoum",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "LK",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Colombo",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,23,456.78",
+      "groupingStyle": [3, 2],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Mogadishu",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BL",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/St_Barthelemy",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "PW",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Palau",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "KP",
+    "dateFormat": "yyyy.MM.dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Pyongyang",
+    "numberFormat": {
+      "format": "no-thousand-dot-decimal",
+      "example": "1234.56",
+      "groupingStyle": [],
+      "decimalSeparator": ".",
+      "thousandSeparator": ""
+    }
+  },
+  {
+    "countryCode": "NP",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Kathmandu",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,23,456.78",
+      "groupingStyle": [3, 2],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "FM",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Pohnpei",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Indian/Antananarivo",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "KW",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Kuwait",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "CI",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Abidjan",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "IT",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Rome",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "HK",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Hong_Kong",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "HN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Tegucigalpa",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GI",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Gibraltar",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "EC",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Guayaquil",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Kinshasa",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "AQ",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Antarctica/McMurdo",
+    "numberFormat": {
+      "format": "no-thousand-dot-decimal",
+      "example": "1234.56",
+      "groupingStyle": [],
+      "decimalSeparator": ".",
+      "thousandSeparator": ""
+    }
+  },
+  {
+    "countryCode": "BS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Nassau",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Tongatapu",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TH",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Bangkok",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SZ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Mbabane",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SJ",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Arctic/Longyearbyen",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "SH",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Atlantic/St_Helena",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "RU",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Moscow",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "PY",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Asuncion",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "ER",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Asmara",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "PG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Port_Moresby",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "NI",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Managua",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "NC",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Pacific/Noumea",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "NR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Nauru",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Yangon",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MA",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Casablanca",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "MN",
+    "dateFormat": "yyyy.MM.dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Ulaanbaatar",
+    "numberFormat": {
+      "format": "space-thousand-dot-decimal",
+      "example": "1 234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "MR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Nouakchott",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "MW",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Blantyre",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "LS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Maseru",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "JO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Amman",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "IS",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Atlantic/Reykjavik",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "GN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Conakry",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "GT",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Guatemala",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GL",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Nuuk",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "GH",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Accra",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "FR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Paris",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "FO",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Atlantic/Faroe",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CN",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Shanghai",
+    "numberFormat": {
+      "format": "no-thousand-dot-decimal",
+      "example": "1234.56",
+      "groupingStyle": [],
+      "decimalSeparator": ".",
+      "thousandSeparator": ""
+    }
+  },
+  {
+    "countryCode": "JE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Jersey",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "VG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Tortola",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "AR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Argentina/Buenos_Aires",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "HM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Indian/Kerguelen",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "YE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Aden",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "VU",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Efate",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TM",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Ashgabat",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "TR",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Istanbul",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "SY",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Damascus",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SE",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Stockholm",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "RS",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Belgrade",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "SM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/San_Marino",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Brazzaville",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "NA",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Windhoek",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MU",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Indian/Mauritius",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "MT",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Europe/Malta",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Macau",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "LT",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Vilnius",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "LA",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Vientiane",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "KG",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Bishkek",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "HU",
+    "dateFormat": "yyyy.MM.dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Budapest",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "HT",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Port-au-Prince",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Athens",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "GQ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Malabo",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "SV",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/El_Salvador",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "CK",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Rarotonga",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "CL",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Santiago",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "GG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Guernsey",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "KY",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Cayman",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "AU",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Australia/Sydney",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Indian/Kerguelen",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "ZW",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Harare",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "ZM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Lusaka",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "VN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Ho_Chi_Minh",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "UZ",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Tashkent",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "AE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Dubai",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TK",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Fakaofo",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "TG",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Lome",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "SS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Juba",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "ZA",
+    "dateFormat": "yyyy/MM/dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Johannesburg",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "SB",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Guadalcanal",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "SI",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Ljubljana",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "SN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Dakar",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "RE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Indian/Reunion",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "PN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Pacific/Pitcairn",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "PS",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Gaza",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "NZ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Pacific/Auckland",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "MZ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Maputo",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "LR",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Africa/Monrovia",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "KI",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Pacific/Kiritimati",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "GY",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Guyana",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "PF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Pacific/Tahiti",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "FI",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Helsinki",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "PM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Miquelon",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "GM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Banjul",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Ouagadougou",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "BA",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Sarajevo",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "BE",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Brussels",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "IO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Indian/Chagos",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "CV",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Atlantic/Cape_Verde",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "BI",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Bujumbura",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "BW",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Gaborone",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "DK",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Copenhagen",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CY",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Nicosia",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "HR",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Zagreb",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "CX",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Indian/Christmas",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BN",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Brunei",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BH",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Bahrain",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "CO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/Bogota",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "TD",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Ndjamena",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "BR",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Sao_Paulo",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "BJ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Porto-Novo",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "BD",
+    "dateFormat": "dd-MM-yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Dhaka",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal-lakh-grouping",
+      "example": "1,23,456.78",
+      "groupingStyle": [3, 2],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "CA",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Toronto",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BG",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Europe/Sofia",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "BT",
+    "dateFormat": "yyyy/MM/dd",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Asia/Thimphu",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "BO",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "America/La_Paz",
+    "numberFormat": {
+      "format": "dot-thousand-comma-decimal",
+      "example": "1.234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": "."
+    }
+  },
+  {
+    "countryCode": "BZ",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Belize",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "AW",
+    "dateFormat": "MM/dd/yyyy",
+    "timeFormat": "hh:mm a",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "America/Aruba",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "IL",
+    "dateFormat": "dd.MM.yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "sunday",
+    "defaultTimeZone": "Asia/Jerusalem",
+    "numberFormat": {
+      "format": "comma-thousand-dot-decimal",
+      "example": "1,234.56",
+      "groupingStyle": [3],
+      "decimalSeparator": ".",
+      "thousandSeparator": ","
+    }
+  },
+  {
+    "countryCode": "KM",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Indian/Comoro",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  },
+  {
+    "countryCode": "CF",
+    "dateFormat": "dd/MM/yyyy",
+    "timeFormat": "HH:mm",
+    "weekStartsOn": "monday",
+    "defaultTimeZone": "Africa/Bangui",
+    "numberFormat": {
+      "format": "space-thousand-comma-decimal",
+      "example": "1 234,56",
+      "groupingStyle": [3],
+      "decimalSeparator": ",",
+      "thousandSeparator": " "
+    }
+  }
+]

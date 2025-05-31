@@ -1,0 +1,20 @@
+# Ignore everything except what's needed
+src/
+tests/
+scripts/
+*.log
+*.ts
+*.tsx
+*.scss
+*.env
+node_modules/
+.git
+.gitignore
+.npmignore
+.vscode/
+.idea/
+dist/**/*.map
+dist/
+tsconfig.json
+README_TEMPLATE.md
+CONTRIBUTING.md.draft
