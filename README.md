@@ -1,5 +1,8 @@
 # Static Data Kit
 
+[![NPM Downloads](https://img.shields.io/npm/dm/@financially/static-data-kit.svg)](https://www.npmjs.com/package/@financially/static-data-kit)
+[![Version](https://img.shields.io/npm/v/@financially/static-data-kit.svg)](https://www.npmjs.com/package/@financially/static-data-kit)
+
 A TypeScript-first utility library for accessing and using high-quality static reference data in SaaS, B2B, and analytics applications.
 
 ---
@@ -56,7 +59,7 @@ import {
 
 const countries = getAllCountries();
 const india = getCountryByAlpha2Code('IN');
-console.log(india?.flagUrl); // "assets/countries/in.svg"
+console.log(india?.flagFile); // "IN.svg" - you can append this to your S3 bucket domain and use it
 ```
 
 ### 📘 Interface
@@ -74,7 +77,7 @@ interface Country {
   regionCode: string;
   subRegionCode: string;
   flagUnicode: string;
-  flagUrl: string;
+  flagFile: string;
   phonePrefix: string;
 }
 ```
@@ -284,8 +287,8 @@ import { getCountryByAlpha2Code } from '@financially/static-data-kit';
 const CDN_BASE_URL = 'https://assets.your-domain.com/countries/';
 const country = getCountryByAlpha2Code('IN');
 
-const flagUrl = `${CDN_BASE_URL}${country.flagFile}`;
-console.log(flagUrl);
+const flagFile = `${CDN_BASE_URL}${country.flagFile}`;
+console.log(flagFile);
 // Output: https://assets.your-domain.com/countries/IN.svg
 ```
 
